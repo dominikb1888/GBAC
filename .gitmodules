@@ -1,0 +1,15 @@
+[submodule "newfile"]
+	path = newfile
+	url = https://github.com/dominikb1888/newfile
+[submodule "Marina"]
+	path = Marina
+	url = https://github.com/Marinapozhid/newfile
+[submodule "Tanmay"]
+	path = Tanmay
+	url = https://github.com/Tanmaytc25/Tanmaytc
+[submodule "Divine"]
+	path = Divine
+	url = https://github.com/miss-didi444/new-file
+[submodule "Johnson"]
+	path = Johnson
+	url = https://github.com/cleverjohnson/newfile
