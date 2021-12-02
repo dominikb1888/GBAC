@@ -82,7 +82,7 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Michelle | Schmidt || Efficent ambulant care | Health care on one click | Patients |
 | Chloe | Roberts|| AI and the future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies ||
@@ -96,7 +96,7 @@ During the course we will have personal real-world exercises helping you start i
 | Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | General public |
 | Amit | Debnath | https://github.com/Tanmaytc25/Tanmaytc | AI and medical imaging | | |
 | Yadwinder |Singh || I - The Future Of Medicine | Health care on one click | |
-| Joachim| Onyebuagu | https://github.com/joeniho | Clinical decision support system |Clinical based-reasoning support system | Patients |
+| Joachim| Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
 | Shoikat|Sajib | https://github.com/ShoikatSajib|AI and the future of medicine |Reflection of AI in Medicine| General public |
 | Omar | Saqr || AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
 | Uchenna| Chukwuma-Enyioji || Corporate Innovation in Digital Health Care- what works? | Variations in Digital Health Care| Hospitals, Health care practitioners, Investors |
