@@ -78,14 +78,26 @@ During the course we will have personal real-world exercises helping you start i
 [](session_16.md)
 
 
-## Class Repositories
+## Class Topics and Repositories
 
-- [Marina](https://github.com/Marinapozhid/newfile)
-- [Ali](https://github.com/aliabx/class)
-- [Olivia](https://github.com/OliviaA22?tab=repositories)
-- [Tanmay](https://github.com/Tanmaytc25/Tanmaytc)
-- [Shahrima](https://github.com/ShahrimaAkter)
-- [Divine](https://github.com/miss-didi444/new-file)
-- [Shoikat](https://github.com/ShoikatSajib)
-- [Johnson](https://github.com/cleverjohnson/newfile)
 
+| First Name |    Last Name     |                   Repository                   |                                 Topic                                  |                                         First Title                                          |                       Target Group                       |
+|:----------:|:----------------:|:------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|
+|  Michelle  |     Schmidt      |                                                |                         Efficent ambulant care                         |                                   Health care on one click                                   |                         Patients                         |
+|   Chloe    |     Roberts      |                                                |                     AI and the future of medicine                      |                                 When AI and Medicine collide                                 |                      General public                      |
+| Shahrima   |      Akter       | - [Shahrima](https://github.com/ShahrimaAkter) |                   Changing the haelthcare game by AI                   |                                  AI tools and technologies                                   |                                                          |
+|   Marina   |    Pozhidaeva    |    https://github.com/Marinapozhid/newfile     |                                  EBM                                   | Does your GP go online searching how to treat your gastritis because he failed in medschool? |                      General public                      |
+|   TANMAY   |      CHADHA      |                                                |                         Efficent ambulant care                         |                                                                                              |                         Patients                         |
+|   Stecie   |    Katusiime     |                                                |                     AI and the future of medicine                      |                                                                                              |                      General public                      |
+|  Blessing  |      Anowai      |                                                |                     AI and the future of medicine                      |                                                                                              |       Young Healthcare Practitioners and Prospects       |
+|  Madalina  |    Lupacescu     |                                                |                                  EBM                                   |                      How can technology save you from an instant death                       |                      General public                      |
+|  Ricardo   |                  |                                                |                     AI and the future of medicine                      |                                   Health care on one click                                   |                         patients                         |
+|  johnson   |      clever      |    https://github.com/cleverjohnson/newfile    |                     Al and the future of medicine                      |                     Computer & Machine Vision offering Appropriate Care                      |     Hospitals, Health care practitioners, Investors      |
+|   Olivia   |      Okoro       |      https://github.com/OliviaA22/project      | Opportunities in Digital Health in Germany ? The Investors Perspective |                              Analogue Health care is wiped out                               |                      General public                      |
+|    Amit    |     Debnath      |     https://github.com/Tanmaytc25/Tanmaytc     |                         AI and medical imaging                         |                                                                                              |                                                          |
+| Yadwinder  |      Singh       |                                                |                       I - The Future Of Medicine                       |                                   Health care on one click                                   |                                                          |
+|  Joachim   |    Onyebuagu     |           https://github.com/joeniho           |                    Clinical decision support system                    |                           Clinical based-reasoning support system                            |                         Patients                         |
+|  Shoikat   |      Sajib       |        https://github.com/ShoikatSajib         |                     AI and the future of medicine                      |                                 Reflection of AI in Medicine                                 |                      General public                      |
+|    Omar    |       Saqr       |                                                |                     AI and the future of medicine                      |        How we can use AI to provide tailored health care service for chronic patients        |                Health Tech Entrepreneurs                 |
+|  Uchenna   | Chukwuma-Enyioji |                                                |        Corporate Innovation in Digital Health Care- what works?        |                               Variations in Digital Health Care                              |     Hospitals, Health care practitioners, Investors      |
+|   Maiia    |     Osipova      |                                                |                        Atmospheric Disturbances                        |               Influence of Atmospheric Disturbances on Low Earth Orbits (LEO)                | Astrophysicists and people interested in Space Mechanics |
