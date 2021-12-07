@@ -46,6 +46,7 @@ During the course we will have personal real-world exercises helping you start i
 - Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
 - Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- Create Pull Request (PR): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 
 #### Vim and Dotfiles
 [](vim_tutorial.md)
