@@ -38,11 +38,11 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Build your LinkedIN Profile
 - [x] Ideate and Define Content
 - [x] Try to estimate your audience and value
-- [x] Prototupe by writing a summary on digitalhealthsummit.de
+- [x] Prototype by writing a summary on digitalhealthsummit.de
 
 #### Command Line
 
-- [x] [](md/cli_tutorial.md)
+- [x] [CLI Tutorial](md/cli_tutorial.md)
 - [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 #### Git and Github
@@ -62,7 +62,7 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Vim and Neovim
 
-- [x] [](md/vim_tutorial.md)
+- [x] [VIM Tutorial](md/vim_tutorial.md)
 - [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 #### Pandoc
