@@ -17,16 +17,16 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Develop your Personal Brand
 
-1. Build your personal online profile for professional networking
-3. Define topics of interest and communication for your professional outreach
-4. Ideate on a personal branding strategy
-
+- [x] Build your personal online profile for professional networking
+- [x] topics of interest and communication for your professional outreach
+- [ ] Ideate on a personal branding strategy
+ 
 
 #### Help you become productive as a developer
 
-5. Work on understanding your operating system and customising it
-6. Developing time management and productivity strategies
-7. Get to know how to use developer tools
+- [ ] Work on understanding your operating system and customising it
+- [ ] Developing time management and productivity strategies
+- [ ] Get to know how to use developer tools
 
 
 ## Materials
@@ -34,27 +34,36 @@ During the course we will have personal real-world exercises helping you start i
 ### Excercises
 
 #### Personal Brand:
-- Build your LinkedIN Profile
-- Ideate and Define Content
-- Try to estimate your audience and value
-- Prototupe by writing a summary on digitalhealthsummit.de
 
-#### Git and Commandline
-[](cli_tutorial.md)
-- Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
-- Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- Create Pull Request (PR): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [x] Build your LinkedIN Profile
+- [x] Ideate and Define Content
+- [x] Try to estimate your audience and value
+- [x] Prototupe by writing a summary on digitalhealthsummit.de
 
-#### Vim and Dotfiles
-[](vim_tutorial.md)
-- Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
-- Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
-- Check with 'echo $SHELL'
-- Customize with OH MY ZSH: https://ohmyz.sh
-- Vim Tutorial: https://danielmiessler.com/study/vim/
+#### Command Line
+
+- [x] [](cli_tutorial.md)
+- [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+#### Git and Github
+
+- [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
+- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [ ] Create Pull Request (PR): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+
+#### Shell Customization and Dotfiles
+- [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
+- [x] Check with `bash echo $SHELL`
+- [x] Customize with OH MY ZSH: https://ohmyz.sh
+- [x] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
+
+
+#### Vim and Neovim
+
+- [x] [](vim_tutorial.md)
+- [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 #### Pandoc
 - Transfrom Markdown into any Document with the Universal Document Converter: https://pandoc.org
