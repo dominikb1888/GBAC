@@ -93,7 +93,7 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-| Michelle | Schmidt | | Efficent ambulant care | Health care on one click | Patients |
+| Michelle | Schmidt |https://github.com/michelleschmidt/Michelle.git| Efficent ambulant care | Health care on one click | Patients |
 | Chloe | Roberts | | AI and the future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
 | Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | General public |
@@ -111,3 +111,18 @@ During the course we will have personal real-world exercises helping you start i
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
 | Uchenna | Chukwuma-Enyioji | | Corporate Innovation in Digital Health Care- what works? | Variations in Digital Health Care| Hospitals, Health care practitioners, Investors |
 | Maiia | Osipova | | Atmospheric Disturbances| Influence of Atmospheric Disturbances on Low Earth Orbits (LEO) | Astrophysicists and people interested in Space Mechanics |
+
+
+### Final Assignemt (Research Paper)
+
+- Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
+- Share your piece on a personal blog you created using Github Pages
+- Integrate at least 5 sources (Scientific Journals, High-quality Journalism, Wikipedia)
+- Additional points for high-quality conceptual graphics or data visualization
+- Share information on your target audience in the same repository
+
+
+Examples:
+- Very good topic and style: https://berthub.eu/articles/posts/a-science-experiment/
+- Additon: https://berthub.eu/articles/posts/a-science-experiment-part-2/
+- Very good on length and interaction with readership: https://www.linkedin.com/pulse/do-we-need-update-our-fundamental-rights-digital-realm-bart-de-witte/
