@@ -70,22 +70,22 @@ During the course we will have personal real-world exercises helping you start i
 
 ### Lectures
 
-[](md/session_01.md)
-[](md/session_02.md)
-[](md/session_03.md)
-[](md/session_04.md)
-[](md/session_05.md)
-[](md/session_06.md)
-[](md/session_07.md)
-[](md/session_08.md)
-[](md/session_09.md)
-[](md/session_10.md)
-[](md/session_11.md)
-[](md/session_12.md)
-[](md/session_13.md)
-[](md/session_14.md)
-[](md/session_15.md)
-[](md/session_16.md)
+- [x] [Session 1 - Introduction](md/session_01.md)
+- [x] [Session 2 - Developing a Business Mindset](md/session_02.md)
+- [x] [Session 3 - Money, Markets, and Business Ethics](md/session_03.md)
+- [x] [Session 4 - Business Ownership and Entrepreneurship](md/session_04.md)
+- [x] [Session 5 - Management](md/session_05.md)
+- [x] [Session 6 - Organization and Teamwork](md/session_06.md)
+- [x] [Session 7 - Production and Productivity](md/session_07.md)
+- [x] [Session 8 - Human Resources and Motivation](md/session_08.md)
+- [ ] [Session 9](md/session_09.md)
+- [ ] [Session 10](md/session_10.md)
+- [ ] [Session 11](md/session_11.md)
+- [ ] [Session 12](md/session_12.md)
+- [ ] [Session 13](md/session_13.md)
+- [ ] [Session 14](md/session_14.md)
+- [ ] [Session 15](md/session_15.md)
+- [ ] [Session 16](md/session_16.md)
 
 
 ## Class Topics and Repositories
