@@ -42,7 +42,7 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Command Line
 
-- [x] [](cli_tutorial.md)
+- [x] [](md/cli_tutorial.md)
 - [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 #### Git and Github
@@ -62,30 +62,30 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Vim and Neovim
 
-- [x] [](vim_tutorial.md)
+- [x] [](md/vim_tutorial.md)
 - [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 #### Pandoc
-- Transfrom Markdown into any Document with the Universal Document Converter: https://pandoc.org
+- Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 ### Lectures
 
-[](session_01.md)
-[](session_02.md)
-[](session_03.md)
-[](session_04.md)
-[](session_05.md)
-[](session_06.md)
-[](session_07.md)
-[](session_08.md)
-[](session_09.md)
-[](session_10.md)
-[](session_11.md)
-[](session_12.md)
-[](session_13.md)
-[](session_14.md)
-[](session_15.md)
-[](session_16.md)
+[](md/session_01.md)
+[](md/session_02.md)
+[](md/session_03.md)
+[](md/session_04.md)
+[](md/session_05.md)
+[](md/session_06.md)
+[](md/session_07.md)
+[](md/session_08.md)
+[](md/session_09.md)
+[](md/session_10.md)
+[](md/session_11.md)
+[](md/session_12.md)
+[](md/session_13.md)
+[](md/session_14.md)
+[](md/session_15.md)
+[](md/session_16.md)
 
 
 ## Class Topics and Repositories
