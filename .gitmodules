@@ -13,3 +13,6 @@
 [submodule "Johnson"]
 	path = Johnson
 	url = https://github.com/cleverjohnson/newfile
+[submodule "Michelle"]
+	path = Michelle
+	url = https://github.com/michelleschmidt/Michelle.git
