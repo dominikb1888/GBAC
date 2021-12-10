@@ -52,6 +52,8 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
 - [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
 - [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+
 
 #### Shell Customization and Dotfiles
 - [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
