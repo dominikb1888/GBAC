@@ -98,7 +98,7 @@ During the course we will have personal real-world exercises helping you start i
 | Michelle | Schmidt |https://github.com/michelleschmidt/Michelle.git| Efficent ambulant care | Health care on one click | Patients|
 | Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
-| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | General public |
+| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | Patients which are interested in clinical decision making processes |
 | TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
 | Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
