@@ -51,7 +51,9 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
 - [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+
 
 #### Shell Customization and Dotfiles
 - [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
@@ -94,16 +96,16 @@ During the course we will have personal real-world exercises helping you start i
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
 | Michelle | Schmidt |https://github.com/michelleschmidt/Michelle.git| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
-| Chloe | Roberts | | AI and the future of medicine | When AI and Medicine collide | General public |
+| Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
-| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | General public |
+| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | Patients which are interested in clinical decision making processes |
 | TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
 | Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
 | Madalina | Lupacescu | | EBM | How can technology save you from an instant death | General public |
 | Ricardo | | | AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
-| Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | General public |
+| Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
 | Yadwinder | Singh | | I - The Future Of Medicine | Health care on one click | |
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
@@ -111,3 +113,18 @@ During the course we will have personal real-world exercises helping you start i
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
 | Uchenna | Chukwuma-Enyioji | | Corporate Innovation in Digital Health Care- what works? | Variations in Digital Health Care| Hospitals, Health care practitioners, Investors |
 | Maiia | Osipova | | Atmospheric Disturbances| Influence of Atmospheric Disturbances on Low Earth Orbits (LEO) | Astrophysicists and people interested in Space Mechanics |
+
+
+### Final Assignemt (Research Paper)
+
+- Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
+- Share your piece on a personal blog you created using Github Pages
+- Integrate at least 5 sources (Scientific Journals, High-quality Journalism, Wikipedia)
+- Additional points for high-quality conceptual graphics or data visualization
+- Share information on your target audience in the same repository
+
+
+Examples:
+- Very good topic and style: https://berthub.eu/articles/posts/a-science-experiment/
+- Additon: https://berthub.eu/articles/posts/a-science-experiment-part-2/
+- Very good on length and interaction with readership: https://www.linkedin.com/pulse/do-we-need-update-our-fundamental-rights-digital-realm-bart-de-witte/
