@@ -107,7 +107,7 @@ During the course we will have personal real-world exercises helping you start i
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
 | Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
-| Yadwinder | Singh | https://github.com/YADWINDER-SIN/research-paper | AI - The Future Of Medicine | Health care on one click |  general public |
+| Yadwinder | Singh | https://github.com/YADWINDER-SIN/research-paper | AI - The Future Of Medicine | Health care on one click |  general people |
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
 | Shoikat | Sajib | https://github.com/ShoikatSajib|AI and the future of medicine |Reflection of AI in Medicine| General public |
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
