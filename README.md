@@ -82,7 +82,7 @@ During the course we will have personal real-world exercises helping you start i
 - [x] [Session 6 - Entrepreneurship](md/session_06.md)
 - [x] [Session 7 - Management](md/session_07.md)
 - [x] [Session 8 - Organization & Teamwork](md/session_08.md)
-- [x] [Session 9 - Value Chiain (md/session_09.md)
+- [x] [Session 9 - Value Chain](md/session_09.md)
 
 ### Session 10 - Human Resources and Motivation
 
