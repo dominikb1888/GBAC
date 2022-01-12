@@ -19,14 +19,14 @@ During the course we will have personal real-world exercises helping you start i
 
 - [x] Build your personal online profile for professional networking
 - [x] topics of interest and communication for your professional outreach
-- [ ] Ideate on a personal branding strategy
+- [x] Ideate on a personal branding strategy
  
 
 #### Help you become productive as a developer
 
-- [ ] Work on understanding your operating system and customising it
-- [ ] Developing time management and productivity strategies
-- [ ] Get to know how to use developer tools
+- [x] Work on understanding your operating system and customising it
+- [x] Developing time management and productivity strategies
+- [x] Get to know how to use developer tools
 
 
 ## Materials
@@ -48,12 +48,12 @@ During the course we will have personal real-world exercises helping you start i
 #### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
-
+- [x] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [x] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [x] Comparing Branches with Git Worktree
 
 #### Shell Customization and Dotfiles
 - [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
@@ -68,24 +68,35 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 #### Pandoc
-- Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
+- [x] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 ### Lectures
 
-- [x] [Session 1 - Introduction](md/session_01.md)
-- [x] [Session 2 - Developing a Business Mindset](md/session_02.md)
-- [x] [Session 3 - Money, Markets, and Business Ethics](md/session_03.md)
-- [x] [Session 4 - Business Ownership and Entrepreneurship](md/session_04.md)
-- [x] [Session 5 - Management](md/session_05.md)
-- [x] [Session 6 - Organization and Teamwork](md/session_06.md)
-- [x] [Session 7 - Production and Productivity](md/session_07.md)
-- [x] [Session 8 - Human Resources and Motivation](md/session_08.md)
-- [ ] [Session 9](md/session_09.md)
+### Sessions 1-9
+
+- [x] [Session 1 - Developing a Business Mindset](md/session_01.md)
+- [x] [Session 2 - Economics, Money, and Banking](md/session_02.md)
+- [x] [Session 3 - The global Market Place](md/session_03.md)
+- [x] [Session 4 - Ethics](md/session_04.md)
+- [x] [Session 5 - Forms of Ownership](md/session_05.md)
+- [x] [Session 6 - Entrepreneurship](md/session_06.md)
+- [x] [Session 7 - Management](md/session_07.md)
+- [x] [Session 8 - Organization & Teamwork](md/session_08.md)
+- [x] [Session 9 - Value Chiain (md/session_09.md)
+
+### Session 10 - Human Resources and Motivation
+
 - [ ] [Session 10](md/session_10.md)
 - [ ] [Session 11](md/session_11.md)
+
+### Session 12 -  Marketing & Product Management
+
 - [ ] [Session 12](md/session_12.md)
 - [ ] [Session 13](md/session_13.md)
 - [ ] [Session 14](md/session_14.md)
+
+### Session 13 - Finance and Accounting
+
 - [ ] [Session 15](md/session_15.md)
 - [ ] [Session 16](md/session_16.md)
 
