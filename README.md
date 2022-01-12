@@ -86,8 +86,8 @@ During the course we will have personal real-world exercises helping you start i
 
 ### Session 10 - Human Resources and Motivation
 
-- [ ] [Session 10](md/session_10.md)
-- [ ] [Session 11](md/session_11.md)
+- [x] [Session 10](md/session_10.md)
+- [x] [Session 11](md/session_11.md)
 
 ### Session 12 -  Marketing & Product Management
 
