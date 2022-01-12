@@ -111,7 +111,7 @@ During the course we will have personal real-world exercises helping you start i
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
 | Shoikat | Sajib | https://github.com/ShoikatSajib|AI and the future of medicine |Reflection of AI in Medicine| General public |
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
-| Uchenna | Chukwuma-Enyioji | | Corporate Innovation in Digital Health Care- what works? | Variations in Digital Health Care| Hospitals, Health care practitioners, Investors |
+| Uchenna | Chukwuma-Enyioji | https://github.com/Ucybrown | Digital interventions for mental health | How Digital Interventions Improve Mental Health| General Public |
 | Maiia | Osipova | | Atmospheric Disturbances| Influence of Atmospheric Disturbances on Low Earth Orbits (LEO) | Astrophysicists and people interested in Space Mechanics |
 
 
