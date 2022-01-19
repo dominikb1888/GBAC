@@ -126,7 +126,7 @@ During the course we will have personal real-world exercises helping you start i
 | Maiia | Osipova | | Atmospheric Disturbances| Influence of Atmospheric Disturbances on Low Earth Orbits (LEO) | Astrophysicists and people interested in Space Mechanics |
 
 
-### Final Assignemt (Research Paper)
+### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
