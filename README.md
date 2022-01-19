@@ -91,9 +91,9 @@ During the course we will have personal real-world exercises helping you start i
 
 ### Session 12 -  Marketing & Product Management
 
-- [ ] [Session 12](md/session_12.md)
-- [ ] [Session 13](md/session_13.md)
-- [ ] [Session 14](md/session_14.md)
+- [x] [Session 12](md/session_12.md)
+- [x] [Session 13](md/session_13.md)
+- [x] [Session 14](md/session_14.md)
 
 ### Session 13 - Finance and Accounting
 
