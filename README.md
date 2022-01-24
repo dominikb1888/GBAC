@@ -110,7 +110,7 @@ During the course we will have personal real-world exercises helping you start i
 | Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
 | Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
-| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
+| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc https://tanmaytc25.github.io/posts/virtual-visits/ | Efficent ambulant care | Virtual Visits - Healthcare on one click Illusion or a distant reality? | Self- practicing doctors or freelancing healthcare workers and people living in remote areas and rural population  | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
 | Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
 | Madalina | Lupacescu | | EBM | How can technology save you from an instant death | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
