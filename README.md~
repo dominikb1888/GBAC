@@ -19,14 +19,14 @@ During the course we will have personal real-world exercises helping you start i
 
 - [x] Build your personal online profile for professional networking
 - [x] topics of interest and communication for your professional outreach
-- [x] Ideate on a personal branding strategy
+- [ ] Ideate on a personal branding strategy
  
 
 #### Help you become productive as a developer
 
-- [x] Work on understanding your operating system and customising it
-- [x] Developing time management and productivity strategies
-- [x] Get to know how to use developer tools
+- [ ] Work on understanding your operating system and customising it
+- [ ] Developing time management and productivity strategies
+- [ ] Get to know how to use developer tools
 
 
 ## Materials
@@ -48,12 +48,12 @@ During the course we will have personal real-world exercises helping you start i
 #### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [x] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [x] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
-- [x] Comparing Branches with Git Worktree
+- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+
 
 #### Shell Customization and Dotfiles
 - [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
@@ -68,35 +68,24 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 #### Pandoc
-- [x] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
+- Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 ### Lectures
 
-### Sessions 1-9
-
-- [x] [Session 1 - Developing a Business Mindset](md/session_01.md)
-- [x] [Session 2 - Economics, Money, and Banking](md/session_02.md)
-- [x] [Session 3 - The global Market Place](md/session_03.md)
-- [x] [Session 4 - Ethics](md/session_04.md)
-- [x] [Session 5 - Forms of Ownership](md/session_05.md)
-- [x] [Session 6 - Entrepreneurship](md/session_06.md)
-- [x] [Session 7 - Management](md/session_07.md)
-- [x] [Session 8 - Organization & Teamwork](md/session_08.md)
-- [x] [Session 9 - Value Chain](md/session_09.md)
-
-### Session 10 - Human Resources and Motivation
-
-- [x] [Session 10](md/session_10.md)
-- [x] [Session 11](md/session_11.md)
-
-### Session 12 -  Marketing & Product Management
-
-- [x] [Session 12](md/session_12.md)
-- [x] [Session 13](md/session_13.md)
-- [x] [Session 14](md/session_14.md)
-
-### Session 13 - Finance and Accounting
-
+- [x] [Session 1 - Introduction](md/session_01.md)
+- [x] [Session 2 - Developing a Business Mindset](md/session_02.md)
+- [x] [Session 3 - Money, Markets, and Business Ethics](md/session_03.md)
+- [x] [Session 4 - Business Ownership and Entrepreneurship](md/session_04.md)
+- [x] [Session 5 - Management](md/session_05.md)
+- [x] [Session 6 - Organization and Teamwork](md/session_06.md)
+- [x] [Session 7 - Production and Productivity](md/session_07.md)
+- [x] [Session 8 - Human Resources and Motivation](md/session_08.md)
+- [ ] [Session 9](md/session_09.md)
+- [ ] [Session 10](md/session_10.md)
+- [ ] [Session 11](md/session_11.md)
+- [ ] [Session 12](md/session_12.md)
+- [ ] [Session 13](md/session_13.md)
+- [ ] [Session 14](md/session_14.md)
 - [ ] [Session 15](md/session_15.md)
 - [ ] [Session 16](md/session_16.md)
 
@@ -106,27 +95,27 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-| Michelle | Schmidt |https://michelleschmidt.github.io/| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
+| Michelle | Schmidt |https://github.com/michelleschmidt/Michelle.git| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
 | Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
-| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
-| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc https://tanmaytc25.github.io/posts/virtual-visits/ | Efficent ambulant care | Virtual Visits - Healthcare on one click Illusion or a distant reality? | Self- practicing doctors or freelancing healthcare workers and people living in remote areas and rural population  | Patients |
+| Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | EBM | Does your GP go online searching how to treat your gastritis because he failed in medschool? | Patients which are interested in clinical decision making processes |
+| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
 | Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
-| Madalina | Lupacescu | | EBM | How can technology save you from an instant death | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
-| Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
+| Madalina | Lupacescu | | EBM | How can technology save you from an instant death | General public |
+| Ricardo | | | AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
 | Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
-| Yadwinder | Singh | https://github.com/YADWINDER-SIN/research-paper | AI - The Future Of Medicine | Health care on one click |  general public |
+| Yadwinder | Singh | | I - The Future Of Medicine | Health care on one click | |
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
 | Shoikat | Sajib | https://github.com/ShoikatSajib|AI and the future of medicine |Reflection of AI in Medicine| General public |
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
-| Uchenna | Chukwuma-Enyioji | https://github.com/Ucybrown | Digital interventions for mental health | How Digital Interventions Improve Mental Health| General Public |
-| Maiia | Osipova | https://github.com/mayosipova | Atmospheric Disturbances| Can a satellite fall down to the Earth? | Astrophysicists and people interested in Space Mechanics |
-|Ikemefuna Ikenna |Ikesee | https://github.com/Ikesee-Ikemefuna/new-repo-from-ikem | Ai and the future of medicine | Medicine from Remoteness | General public |
+| Uchenna | Chukwuma-Enyioji | | Corporate Innovation in Digital Health Care- what works? | Variations in Digital Health Care| Hospitals, Health care practitioners, Investors |
+| Maiia | Osipova | | Atmospheric Disturbances| Influence of Atmospheric Disturbances on Low Earth Orbits (LEO) | Astrophysicists and people interested in Space Mechanics |
 
-### Final Assignment (Research Paper)
+
+### Final Assignemt (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
