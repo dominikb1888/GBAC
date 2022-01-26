@@ -112,7 +112,7 @@ During the course we will have personal real-world exercises helping you start i
 | Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
 | TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
-| Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
+| Blessing | Anowai |https://github.com/ChiomasCorner/Blessing-Anowai | AI and the future of medicine | | Ultra Digital Health in Pocket |
 | Madalina | Lupacescu | | EBM | How can technology save you from an instant death | General public |
 | Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
