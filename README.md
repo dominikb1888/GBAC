@@ -91,9 +91,9 @@ During the course we will have personal real-world exercises helping you start i
 
 ### Session 12 -  Marketing & Product Management
 
-- [ ] [Session 12](md/session_12.md)
-- [ ] [Session 13](md/session_13.md)
-- [ ] [Session 14](md/session_14.md)
+- [x] [Session 12](md/session_12.md)
+- [x] [Session 13](md/session_13.md)
+- [x] [Session 14](md/session_14.md)
 
 ### Session 13 - Finance and Accounting
 
@@ -106,27 +106,28 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-| Michelle | Schmidt |https://github.com/michelleschmidt/Michelle.git| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
+| Michelle | Schmidt |https://michelleschmidt.github.io/| Digital Health | COVID-19 as an opportunity for IT | People interested in IT looking for a career |
 | Chloe | Roberts | https://github.com/chloe-1111/newfile.git | AI and The future of medicine | When AI and Medicine collide | General public |
 | Shahrima | Akter | https://github.com/ShahrimaAkter | Changing the haelthcare game by AI | AI tools and technologies | |
 | Marina | Pozhidaeva | https://github.com/Marinapozhid/newfile | Data interoperability | Is there a chance for clinicians, software developers and business analysts to communicate easily? | EHR vendors, clinitians, policy stakeholders, clinical pathway stakeholders |
-| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc  | Efficent ambulant care | | | Patients |
+| TANMAY | CHADHA |  https://github.com/Tanmaytc25/Tanmaytc https://tanmaytc25.github.io/posts/virtual-visits/ | Efficent ambulant care | Virtual Visits - Healthcare on one click Illusion or a distant reality? | Self- practicing doctors or freelancing healthcare workers and people living in remote areas and rural population  | Patients |
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
-| Blessing | Anowai | | AI and the future of medicine | | Young Healthcare Practitioners and Prospects |
-| Madalina | Lupacescu | | EBM | How can technology save you from an instant death | General public |
+| Madalina | Lupacescu |https://madalinalupacescu.github.io/PulseOximeter1.github.io/ | EBM | How can technology save you from an instant death? | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
+| Blessing | Anowai |https://github.com/ChiomasCorner/Blessing-Anowai | AI and the future of medicine | | Ultra Digital Health in Pocket |
+| Madalina | Lupacescu | | EBM | How can technology save you from an instant death | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
 | Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
-| Yadwinder | Singh | | I - The Future Of Medicine | Health care on one click | |
+| Yadwinder | Singh | https://github.com/YADWINDER-SIN/research-paper | AI - The Future Of Medicine | Health care on one click |  general public |
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
 | Shoikat | Sajib | https://github.com/ShoikatSajib|AI and the future of medicine |Reflection of AI in Medicine| General public |
 | Omar | Saqr | | AI and the future of medicine | How we can use AI to provide tailored health care service for chronic patients | Health Tech Entrepreneurs |
 | Uchenna | Chukwuma-Enyioji | https://github.com/Ucybrown | Digital interventions for mental health | How Digital Interventions Improve Mental Health| General Public |
 | Maiia | Osipova | https://github.com/mayosipova/Atmospheric-disturbances https://mayosipova.github.io/Atmospheric-disturbances/ | Atmospheric Disturbances| Can a satellite fall down to the Earth? | Astrophysicists and people interested in Space Mechanics |
+| Ikemefuna Ikenna | Ikesee | https://github.com/Ikesee-Ikemefuna/new-repo-from-ikem | Ai and the future of medicine | Medicine from Remoteness | General public |
 
-
-### Final Assignemt (Research Paper)
+### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
