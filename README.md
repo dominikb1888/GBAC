@@ -114,7 +114,6 @@ During the course we will have personal real-world exercises helping you start i
 | Stecie | Katusiime | | AI and the future of medicine | | General public |
 | Madalina | Lupacescu |https://madalinalupacescu.github.io/PulseOximeter1.github.io/ | EBM | How can technology save you from an instant death? | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Blessing | Anowai |https://github.com/ChiomasCorner/Blessing-Anowai | AI and the future of medicine | | Ultra Digital Health in Pocket |
-| Madalina | Lupacescu | | EBM | How can technology save you from an instant death | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
 | Olivia | Okoro | https://github.com/OliviaA22 https://oliviaa22.github.io/ | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
