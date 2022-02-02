@@ -117,7 +117,7 @@ During the course we will have personal real-world exercises helping you start i
 | Madalina | Lupacescu | | EBM | How can technology save you from an instant death | People that fight Covid-19 at home, people with family history of chronic heart and lung disease |
 | Ricardo |Mbancho | https://github.com/ricardo-applepie/AI-blog| AI and the future of medicine | Health care on one click | patients |
 | Johnson | Clever | https://github.com/cleverjohnson/newfile | Al and the future of medicine | Computer & Machine Vision offering Appropriate Care | Hospitals, Health care practitioners, Investors |
-| Olivia | Okoro | https://github.com/OliviaA22/project | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
+| Olivia | Okoro | https://github.com/OliviaA22 https://oliviaa22.github.io/ | Opportunities in Digital Health in Germany ? The Investors Perspective | Analogue Health care is wiped out | Health Practitioners, Healthcare Investors |
 | Amit | Debnath | | AI and medical imaging | | |
 | Yadwinder | Singh | https://github.com/YADWINDER-SIN/research-paper/blob/main/AI%20IN%20HEALTHCARE.pdf | Artificial Intelligence in Healthcare| How AI Transforming Healthcare | Patients, Doctors and General Public 
 | Joachim | Onyebuagu | https://github.com/joeniho | Clinical decision support system | Clinical based-reasoning support system | Patients |
