@@ -124,6 +124,7 @@ During the course we will have personal real-world exercises helping you start i
 | Uchenna | Chukwuma-Enyioji | https://github.com/Ucybrown | Digital interventions for mental health | How Digital Interventions Improve Mental Health| General Public |
 | Maiia | Osipova | https://github.com/mayosipova/Atmospheric-disturbances https://mayosipova.github.io/Atmospheric-disturbances/ | Atmospheric Disturbances| Can a satellite fall down to the Earth? | Astrophysicists and people interested in Space Mechanics |
 | Ikemefuna Ikenna | Ikesee | https://github.com/Ikesee-Ikemefuna/new-repo-from-ikem | Ai and the future of medicine | Medicine from Remoteness | General public |
+| Akhil | Joy | https://mygit.th-deg.de/aj21219/M-HEALTH | | |
 
 ### Final Assignment (Research Paper)
 
