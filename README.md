@@ -125,8 +125,7 @@ During the course we will have personal real-world exercises helping you start i
 | Maiia | Osipova | https://github.com/mayosipova/Atmospheric-disturbances https://mayosipova.github.io/Atmospheric-disturbances/ | Atmospheric Disturbances| Can a satellite fall down to the Earth? | Astrophysicists and people interested in Space Mechanics |
 | Ikemefuna Ikenna | Ikesee | https://github.com/Ikesee-Ikemefuna/new-repo-from-ikem | Ai and the future of medicine | Medicine from Remoteness | General public |
 | Akhil | Joy | https://mygit.th-deg.de/aj21219/M-HEALTH | | |
-| Amar | Furqan | https://amarfurqan.github.io/ https://github.com/AmarFurqan/AmarFurqan.github.io | EHR system – a telehealth application
- |Target audiences are the physicians and patients who are looking forward to advance medical solutions. |
+| Amar | Furqan | https://amarfurqan.github.io/ https://github.com/AmarFurqan/AmarFurqan.github.io | EHR system – a telehealth application |Target audiences are the physicians and patients who are looking forward to advance medical solutions. |
 
 ### Final Assignment (Research Paper)
 
