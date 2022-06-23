@@ -126,6 +126,7 @@ During the course we will have personal real-world exercises helping you start i
 | Ikemefuna Ikenna | Ikesee | https://github.com/Ikesee-Ikemefuna/new-repo-from-ikem | Ai and the future of medicine | Medicine from Remoteness | General public |
 | Akhil | Joy | https://mygit.th-deg.de/aj21219/M-HEALTH | | |
 | Amar | Furqan | https://amarfurqan.github.io/ https://github.com/AmarFurqan/AmarFurqan.github.io | EHR system – a telehealth application |Target audiences are the physicians and patients who are looking forward to advance medical solutions. |
+| Kizito | Christopher | https://github.com/KizzyAdrain/Kizito.github.io | Support for Clinical Decision |Target audiences are the physicians and patients |
 
 ### Final Assignment (Research Paper)
 
