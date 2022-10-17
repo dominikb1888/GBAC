@@ -32,6 +32,18 @@ __15.7__ Explain why businesses would be interested in blockchain and other dist
 
 ---
 
+## Agenda 21W
+
+1. Revenue, Costs, and Profit
+2. Assets and Liabilities
+3. Value Chain and P&L
+  - Exercise: Estimating Gross Margins
+4. Business Models and Financial Planning
+  - Exercise: What and how to charge? 
+
+
+---
+
 ## Understanding Accounting (1 of 2)
 
 * __Accounting__
