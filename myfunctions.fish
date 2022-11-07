@@ -15,7 +15,7 @@
 set -x FZF_DEFAULT_OPTS '--prompt="🔭 " --height 80% --layout=reverse --border'
 
 # Default command
-set -x FZF_DEFAULT_COMMAND '(which rg) --files --no-ignore --hidden --follow --glob "!.git/" --glob "!node_modules/" --glob "!vendor/" --glob "!undo/" --glob "!plugged/"'
+set -x FZF_DEFAULT_COMMAND 'rg --files --no-ignore --hidden --follow --glob "!.git/" --glob "!node_modules/" --glob "!vendor/" --glob "!undo/" --glob "!plugged/"'
 
 # Preview them using bat
 set -x BAT_THEME 'gruvbox-dark'
@@ -66,7 +66,7 @@ function vimGoToFiles
 end;
 
 function displayRgPipedFzf
-    echo (rg . -n --glob "!.git/" --glob "!vendor/" --glob "!node_modules/" | fzf --preview "bat --style=numbers --color=always --line-range :500 {}");
+    echo (rg . -n --glob "!.git/" --glob "!vendor/" --glob "!node_modules/" | fzf -d ':' -n 2.. --ansi --no-sort --preview 'bat --style=numbers --color=always --highlight-line {2} {1}');
 end;
 
 function nvimGoToLine
