@@ -45,19 +45,14 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Command Line
 
-- [ ] [CLI Tutorial](md/cli_tutorial.md)
-- [ ] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+- [x] [CLI Tutorial](md/cli_tutorial.md)
+- [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 
-#### Git and Github
+#### Vim
 
-- [ ] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
-- [ ] Comparing Branches with Git Worktree
+- [x] [VIM Tutorial](md/vim_tutorial.md)
+- [x] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 
 #### Shell Customization and Dotfiles
@@ -68,10 +63,25 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
 - [ ] Understanding the nixos approach: https://alexpearce.me/2021/07/managing-dotfiles-with-nix/
 
-#### Vim and Neovim
+#### Exploring new commands and tools
 
-- [ ] [VIM Tutorial](md/vim_tutorial.md)
-- [ ] Vim Tutorial: https://danielmiessler.com/study/vim/
+- [ ] Neovim and Lunarvim
+- [ ] fzf (fuzzy finder)
+- [ ] rg (ripgrep)
+- [ ] jq
+- [ ] curl
+- [ ] sed / awk
+
+#### Git and Github
+
+- [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
+- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [ ] Comparing Branches with Git Worktree
+
 
 #### Pandoc
 
