@@ -15,13 +15,6 @@ Please download the PDFs of the Chapters step-by-step. There is both a limit on 
 During the course we will have personal real-world exercises helping you start ideating on and building your professional profile in the Digital Healthcare Industry (and beyond, if you wish). We will:
 
 
-#### Develop your Personal Brand
-
-- [ ] Build your personal online profile for professional networking
-- [ ] topics of interest and communication for your professional outreach
-- [ ] Ideate on a personal branding strategy
-
-
 #### Help you become productive as a developer
 
 - [ ] Work on understanding your operating system and customising it
@@ -29,18 +22,19 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Get to know how to use developer tools
 
 
+#### Develop your Personal Brand
+
+- [ ] Build your personal online profile for professional networking
+- [ ] topics of interest and communication for your professional outreach
+- [ ] Ideate on a personal branding strategy
+
+
+
+
 ## Materials
 
 
 ### Excercises
-
-
-#### Personal Brand:
-
-- [ ] Build your LinkedIN Profile
-- [ ] Ideate and Define Content
-- [ ] Try to estimate your audience and value
-- [ ] Prototype by writing a summary on digitalhealthsummit.de
 
 
 #### Command Line
@@ -86,6 +80,15 @@ During the course we will have personal real-world exercises helping you start i
 #### Pandoc
 
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
+
+
+#### Personal Brand:
+
+- [ ] Build your LinkedIN Profile
+- [ ] Ideate and Define Content
+- [ ] Try to estimate your audience and value
+- [ ] Prototype by writing a summary on Digt Health Day or digitalhealthsummit.de
+
 
 ### Lectures
 
