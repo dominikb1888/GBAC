@@ -1,6 +1,14 @@
 #!/bin/bash
+# Based on:
+# https://github.com/manofthelionarmy/vimFzf-Rg/blob/master/myfunctions.sh
 #
-# Based on: https://github.com/manofthelionarmy/vimFzf-Rg/blob/master/myfunctions.sh
+# To run this script you need to install a set of tools
+# sudo apt-get install rg fzf bat git
+#
+# To be able to use all functions some optional tools come in handy. They take some time to setup properly. So, please google :-)
+# Neovim (lua-based version of vim)
+# Lunarvim (Integrated Development Environment based on Neovim)
+# Tmux (Terminal Multiplexer)
 #
 # Default opts that set the dracula fzf color theme
 #export FZF_DEFAULT_OPTS='--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9 --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9 --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6 --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4 --height 80% --layout=reverse --border'

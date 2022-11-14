@@ -84,7 +84,7 @@ Why do we need competition? Are there alternatives?
 
 * __Goods-producing businesses__
   * Companies that create value by making“things'”most of which are tangible.
- 
+
 * __Service businesses__
   * Companies that create value by performing activities that deliver some benefit to customers.
 
@@ -238,7 +238,7 @@ Think about somethin you would like to start? How would you do that right now?
 * __Professionalism__
   * The quality of performing at a high level and conducting oneself with purpose and pride
 
-<!-- 
+<!--
 Have you experienced unprofessional behavior?
 -->
 
@@ -269,7 +269,7 @@ Being a team player also means showing loyalty to your organization and protecti
 - Present information in a concise and effective manner.
 - Clarify expectations and responsibilities.
 - Offer compelling' persuasive arguments' and recommendations.
- 
+
 ---
 
 ## Demonstrating Etiquette
@@ -302,7 +302,7 @@ Being a team player also means showing loyalty to your organization and protecti
   * Growth strategies with long stretches of initial losses
   * Highly focus yet scalable businesses
   * Frequent reconfiguration of product offering and position in the value chain
-  
+
 ---
 
 ## Elements of Digital Transformation (1 of 3)
@@ -333,7 +333,7 @@ Being a team player also means showing loyalty to your organization and protecti
 | Artificial intelligence | The application of computing power to replicate one of more aspects of human intelligence; generally speaking, it’s a three stage process: collecting data or information, analyzing or processing that input to make decisions, then applying the results of that decision-making activity |
 | Digital twins | Accurate, detailed digital models of equipment that update in real time using data from their physical counterparts; can aid in troubleshooting, predictive maintenance, and design Improvement |
 | Low-code app development | Systems that allow subject-matter experts to create apps without having in-depth programming knowledge or skills |
- 
+
 
 ---
 
@@ -381,7 +381,7 @@ Explain the purpose of the six major functional areas in a business enterprise.
 - Sign into Slack Workspace, build your profile there, and leave an Intro Message (30min)
 	- Share your interest an motivation for Digital Health
 	- Think about what could be interesting at the Summit for you?
-	- 
+	-
 - Get in touch with me on Slack :-)
 
 ---
