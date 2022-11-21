@@ -3,7 +3,7 @@
 # https://github.com/manofthelionarmy/vimFzf-Rg/blob/master/myfunctions.sh
 #
 # To run this script you need to install a set of tools
-# sudo apt-get install rg fzf bat git
+# sudo apt-get install ripgrep fzf bat git
 #
 # To be able to use all functions some optional tools come in handy. They take some time to setup properly. So, please google :-)
 # Neovim (lua-based version of vim)
