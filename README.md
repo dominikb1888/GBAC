@@ -51,17 +51,17 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Shell Customization and Dotfiles
 
-- [ ] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
-- [ ] Check with `bash echo $SHELL`
-- [ ] Customize with OH MY ZSH: https://ohmyz.sh
-- [ ] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
+- [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
+- [x] Check with `bash echo $SHELL`
+- [x] Customize with OH MY ZSH: https://ohmyz.sh
+- [x] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
 - [ ] Understanding the nixos approach: https://alexpearce.me/2021/07/managing-dotfiles-with-nix/
 
 #### Exploring new commands and tools
 
-- [ ] Neovim and Lunarvim
-- [ ] fzf (fuzzy finder)
-- [ ] rg (ripgrep)
+- [x] Neovim and Lunarvim
+- [x] fzf (fuzzy finder)
+- [x] rg (ripgrep)
 - [ ] jq
 - [ ] curl
 - [ ] sed / awk
@@ -87,7 +87,6 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Build your LinkedIN Profile
 - [ ] Ideate and Define Content
 - [ ] Try to estimate your audience and value
-- [ ] Prototype by writing a summary on Digt Health Day or digitalhealthsummit.de
 
 
 ### Lectures
@@ -95,10 +94,12 @@ During the course we will have personal real-world exercises helping you start i
 ### Sessions 1-9
 
 - [x] [Session 1 - Developing a Business Mindset](md/session_01.md)
+
 - [ ] [Session 2 - Economics, Money, and Banking](md/session_02.md)
 - [ ] [Session 3 - The Global Market Place](md/session_03.md)
 - [ ] [Session 4 - Ethics](md/session_04.md)
 - [ ] [Session 5 - Forms of Ownership](md/session_05.md)
+
 - [ ] [Session 6 - Entrepreneurship](md/session_06.md)
 - [ ] [Session 7 - Management](md/session_07.md)
 - [ ] [Session 8 - Organization & Teamwork](md/session_08.md)
