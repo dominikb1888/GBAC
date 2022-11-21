@@ -62,8 +62,8 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Neovim and Lunarvim
 - [x] fzf (fuzzy finder)
 - [x] rg (ripgrep)
-- [ ] jq
-- [ ] curl
+- [x] jq
+- [x] curl
 - [ ] sed / awk
 
 #### Git and Github
