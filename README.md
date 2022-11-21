@@ -129,6 +129,8 @@ During the course we will have personal real-world exercises helping you start i
 |---|---|---|---|---|---|
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
+|Bernadette|Nakazibwe|||||
+
 
 
 ### Final Assignment (Research Paper)
