@@ -127,10 +127,14 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+<<<<<<< HEAD
+| Saw | Steven | - | - | - | - |
+=======
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Bernadette|Nakazibwe|||||
 
+>>>>>>> origin/main
 
 
 ### Final Assignment (Research Paper)
