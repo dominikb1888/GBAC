@@ -126,7 +126,7 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|Hania|Batt|---|---|---|---|
+|---|---|---|
 
 
 ### Final Assignment (Research Paper)
