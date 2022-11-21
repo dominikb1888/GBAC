@@ -128,7 +128,7 @@ During the course we will have personal real-world exercises helping you start i
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
 |Somtochukwu|Mbuko| | | | |
-
+|Zephaniah|Okari| |cybersecurity|healthcare sector| |
 ### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
