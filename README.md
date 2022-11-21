@@ -130,6 +130,7 @@ During the course we will have personal real-world exercises helping you start i
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
+|Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
 
 
