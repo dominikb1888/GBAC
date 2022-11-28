@@ -126,7 +126,11 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
+ bob/changes
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git  |Empowerment through digital health|Digital Health Advantages|People interest in supporting the continuation of Digital Health|
+
+|Bernadette|Nakazibwe|---|---|---|---|
+ main
 
 
 ### Final Assignment (Researchiiaper)
