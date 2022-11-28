@@ -137,6 +137,7 @@ During the course we will have personal real-world exercises helping you start i
 |Joumana|Salahaldin| | | | |
 |Md Adnan|Abir| | | | |
 |B M Muntasir|Fahim| | | | |
+|Md|Rafsun| | | | |
 
 
 ### Final Assignment (Research Paper)
