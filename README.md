@@ -136,6 +136,7 @@ During the course we will have personal real-world exercises helping you start i
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
 |Md Adnan|Abir| | | | |
+|Md Sayed|Hossen| | | | |
 
 ### Final Assignment (Research Paper)
 
