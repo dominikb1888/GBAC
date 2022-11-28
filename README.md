@@ -132,7 +132,7 @@ During the course we will have personal real-world exercises helping you start i
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 
 ### Final Assignment (Research Paper)
 
