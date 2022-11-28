@@ -1,5 +1,5 @@
 # Basics of Business
-
+learn now.
 
 ## Introduction
 
@@ -126,10 +126,10 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|---|---|---|---|---|---|
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git  |Empowerment through digital health|Digital Health Advantages|People interest in supporting the continuation of Digital Health|
 
 
-### Final Assignment (Research Paper)
+### Final Assignment (Researchiiaper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
