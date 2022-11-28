@@ -127,12 +127,21 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+|Faith|Nalwoga|||||
+|Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
+<<<<<<< HEAD
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+=======
+|Joumana|Salahaldin| | | | |
+|Md Adnan|Abir| | | | |
+|B M Muntasir|Fahim| | | | |
+
+>>>>>>> cc7a857dc1c6956dfeb8af37fde833f8d7569685
 
 ### Final Assignment (Research Paper)
 
