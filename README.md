@@ -134,6 +134,7 @@ During the course we will have personal real-world exercises helping you start i
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
+| Md | Rafsun | - | - | - | - |
 
 ### Final Assignment (Research Paper)
 
