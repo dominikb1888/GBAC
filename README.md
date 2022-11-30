@@ -69,11 +69,11 @@ During the course we will have personal real-world exercises helping you start i
 #### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 - [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
 
@@ -88,6 +88,9 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Ideate and Define Content
 - [ ] Try to estimate your audience and value
 
+### Personal Blog:
+
+- [x] Create Github Pages Blog: pages.github.com
 
 ### Lectures
 
@@ -127,6 +130,7 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+|Faith|Nalwoga|||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
@@ -135,6 +139,9 @@ During the course we will have personal real-world exercises helping you start i
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
 |lana|zamel| | | | |
+|Md Adnan|Abir| | | | |
+|B M Muntasir|Fahim| | | | |
+
 
 ### Final Assignment (Research Paper)
 
