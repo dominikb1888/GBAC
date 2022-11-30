@@ -138,6 +138,7 @@ During the course we will have personal real-world exercises helping you start i
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
+|lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
 |B M Muntasir|Fahim| | | | |
 
