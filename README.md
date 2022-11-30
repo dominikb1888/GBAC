@@ -1,5 +1,5 @@
 # Basics of Business
-learn now.
+
 
 ## Introduction
 
