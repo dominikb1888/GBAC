@@ -129,13 +129,6 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
- bob/changes
- bob/changes
-|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git  |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
-
-|Bernadette|Nakazibwe|---|---|---|---|
- main
-
 |---|---|---|---|---|---|
 |Faith|Nalwoga|||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
@@ -143,7 +136,7 @@ During the course we will have personal real-world exercises helping you start i
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
-|Bernadette|Nakazibwe|||||
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 |lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
