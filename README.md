@@ -144,10 +144,14 @@ During the course we will have personal real-world exercises helping you start i
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
- main
+|Md|Rafsun| | | | |
 
 
 ### Final Assignment (Researchiiaper)
