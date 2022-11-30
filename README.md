@@ -1,5 +1,5 @@
 # Basics of Business
-
+learn now.
 
 ## Introduction
 
@@ -129,6 +129,13 @@ During the course we will have personal real-world exercises helping you start i
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
+ bob/changes
+ bob/changes
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git  |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+
+|Bernadette|Nakazibwe|---|---|---|---|
+ main
+
 |---|---|---|---|---|---|
 |Faith|Nalwoga|||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
@@ -137,10 +144,7 @@ During the course we will have personal real-world exercises helping you start i
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
-<<<<<<< HEAD
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
-=======
-|Joumana|Salahaldin| | | | |
 |lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
 |Zubaer|Ahmed| | | | |
@@ -149,9 +153,8 @@ During the course we will have personal real-world exercises helping you start i
 |B M Muntasir|Fahim| | | | |
 |Md|Rafsun| | | | |
 
->>>>>>> cc7a857dc1c6956dfeb8af37fde833f8d7569685
 
-### Final Assignment (Research Paper)
+### Final Assignment (Researchiiaper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
