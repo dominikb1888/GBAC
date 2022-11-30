@@ -1,5 +1,5 @@
 # Basics of Business
-
+learn now.
 
 ## Introduction
 
@@ -136,14 +136,19 @@ During the course we will have personal real-world exercises helping you start i
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
-|Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
 |Shikut|Mia| | | | |
+|Md|Rafsun| | | | |
 
 
-### Final Assignment (Research Paper)
+### Final Assignment (Researchiiaper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
