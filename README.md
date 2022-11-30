@@ -1,5 +1,5 @@
 # Basics of Business
-
+learn now.
 
 ## Introduction
 
@@ -130,19 +130,27 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-|Faith|Nalwoga|||||
+|Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
+|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
-|Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
 |Sahan|Adikaram| | | | |
+|Shikut|Mia| | | | |
+|Md|Rafsun| | | | |
 
-### Final Assignment (Research Paper)
+
+### Final Assignment (Researchiiaper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
 - Share your piece on a personal blog you created using Github Pages
