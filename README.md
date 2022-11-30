@@ -140,9 +140,11 @@ During the course we will have personal real-world exercises helping you start i
 |Joumana|Salahaldin| | | | |
 |lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
+
 
 ### Final Assignment (Research Paper)
 
