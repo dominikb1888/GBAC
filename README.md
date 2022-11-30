@@ -82,12 +82,6 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-#### Personal Brand:
-
-- [ ] Build your LinkedIN Profile
-- [ ] Ideate and Define Content
-- [ ] Try to estimate your audience and value
-
 ### Personal Blog:
 
 - [x] Create Github Pages Blog: pages.github.com
