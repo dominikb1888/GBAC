@@ -143,7 +143,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
-
+|Paniz|Ziaie| | | | |
 
 ### Final Assignment (Research Paper)
 
