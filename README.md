@@ -143,7 +143,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
-
+|Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 
 ### Final Assignment (Research Paper)
 
