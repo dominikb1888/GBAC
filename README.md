@@ -151,7 +151,7 @@ During the course we will have personal real-world exercises helping you start i
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io| | | |
-
+|Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 
 ### Final Assignment (Research Paper)
 
