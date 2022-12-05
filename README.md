@@ -131,6 +131,9 @@ During the course we will have personal real-world exercises helping you start i
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
+|Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector| |
+|Bernadette|Nakazibwe|||||
+|Joumana|Salahaldin| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
