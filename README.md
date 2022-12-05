@@ -124,7 +124,6 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
@@ -145,7 +144,9 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
+|Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
+
 
 ### Final Assignment (Research Paper)
 
