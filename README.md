@@ -144,7 +144,7 @@ During the course we will have personal real-world exercises helping you start i
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
-
+|Maja|Czekała|https://Maja03.github.io|
 ### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
