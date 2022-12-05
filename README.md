@@ -82,12 +82,6 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-#### Personal Brand:
-
-- [ ] Build your LinkedIN Profile
-- [ ] Ideate and Define Content
-- [ ] Try to estimate your audience and value
-
 ### Personal Blog:
 
 - [x] Create Github Pages Blog: pages.github.com
@@ -130,16 +124,33 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-|Faith|Nalwoga|||||
+|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
+|Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
+|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
-|Zephaniah|Okari| |cybersecurity|healthcare sector| |
+|Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
+|Zephaniah|Okari| |cybersecurity|healthcare sector| |
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|lana|zamel| | | | |
 |Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
+|Emon|Ahmed| | | | |
+|Sahan|Adikaram| | | | |
+|Shikut|Mia| | | | |
+|Md|Rafsun| | | | |
+|Paya|Karimi| | | | |
+|Paniz|Ziaie| | | | |
+|Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
+|Maja|Czekała|https://Maja03.github.io|
 
 
 ### Final Assignment (Research Paper)
