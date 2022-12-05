@@ -17,15 +17,15 @@ During the course we will have personal real-world exercises helping you start i
 
 #### Help you become productive as a developer
 
-- [ ] Work on understanding your operating system and customising it
-- [ ] Developing time management and productivity strategies
-- [ ] Get to know how to use developer tools
+- [x] Work on understanding your operating system and customising it
+- [x] Developing time management and productivity strategies
+- [x] Get to know how to use developer tools
 
 
 #### Develop your Personal Brand
 
-- [ ] Build your personal online profile for professional networking
-- [ ] topics of interest and communication for your professional outreach
+- [x] Build your personal online profile for professional networking
+- [x] topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
 
