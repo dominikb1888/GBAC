@@ -124,6 +124,7 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
@@ -143,8 +144,12 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
+|Paya|Karimi| | | | |
+|Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io|
+
+
 ### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
