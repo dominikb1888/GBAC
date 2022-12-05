@@ -69,11 +69,11 @@ During the course we will have personal real-world exercises helping you start i
 #### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
 - [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
 
@@ -82,12 +82,9 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-#### Personal Brand:
+### Personal Blog:
 
-- [ ] Build your LinkedIN Profile
-- [ ] Ideate and Define Content
-- [ ] Try to estimate your audience and value
-
+- [x] Create Github Pages Blog: pages.github.com
 
 ### Lectures
 
@@ -127,14 +124,28 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
+|Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
+|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | - | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
-|Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
+|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|lana|zamel| | | | |
+|Md Adnan|Abir| | | | |
+|Zubaer|Ahmed| | | | |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Md Sayed|Hossen| | | | |
+|B M Muntasir|Fahim| | | | |
+|Emon|Ahmed| | | | |
+|Sahan|Adikaram| | | | |
+|Shikut|Mia| | | | |
+|Md|Rafsun| | | | |
+|Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 
 ### Final Assignment (Research Paper)
 
