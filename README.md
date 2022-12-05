@@ -144,6 +144,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
+|Paya|Karimi| | | | |
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 
