@@ -141,7 +141,7 @@ During the course we will have personal real-world exercises helping you start i
 |Md Adnan|Abir| https://md-adnan-abir.github.io | | | |
 |Zubaer|Ahmed| | | | |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
-|Md Sayed|Hossen| | | | |
+|Md Sayed|Hossen|https://sayed325.github.io/ | Enhancing Investments in Health Information Technology| Why we should invest more in health information technology| General Audience & Government Authorities|
 |B M Muntasir|Fahim| | | | |
 |Emon|Ahmed| | | | |
 |Sahan|Adikaram| | | | |
