@@ -142,7 +142,7 @@ During the course we will have personal real-world exercises helping you start i
 |Zubaer|Ahmed| | | | |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
-|B M Muntasir|Fahim| | | | |
+|B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed| | | | |
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
