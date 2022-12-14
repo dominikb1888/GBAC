@@ -143,7 +143,7 @@ During the course we will have personal real-world exercises helping you start i
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
-|Emon|Ahmed| | | | |
+|Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
