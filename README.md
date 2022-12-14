@@ -146,7 +146,7 @@ During the course we will have personal real-world exercises helping you start i
 |Emon|Ahmed| | | | |
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
-|Md|Rafsun| | | | |
+|Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
 |Paya|Karimi| | | | |
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
