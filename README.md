@@ -137,7 +137,7 @@ During the course we will have personal real-world exercises helping you start i
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
-|lana|zamel| | | | |
+|lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | | | |
 |Zubaer|Ahmed| | | | |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
