@@ -139,7 +139,7 @@ During the course we will have personal real-world exercises helping you start i
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 |lana|zamel| | | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | | | |
-|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Health & Information Technology | Impact of IT in Healthcare | IT & Health Officers |
+|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Health & Information Technology | Impact of IT in Healthcare | IT & Health Sector |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| | | | |
