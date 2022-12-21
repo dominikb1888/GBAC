@@ -152,7 +152,8 @@ During the course we will have personal real-world exercises helping you start i
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io| | | |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
-|Zakia|Reaza| | | |
+|Zakia|Reaza| | | | |
+|Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 
 
 ### Final Assignment (Research Paper)
