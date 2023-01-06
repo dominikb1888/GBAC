@@ -128,8 +128,6 @@ During the course we will have personal real-world exercises helping you start i
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
 | Karim | Haidar | karim-haidar.github.io/22W/ | Helping Visually Impaired With AI | Empowering the Visually Impaired With AI  | Visually Impaired |
-|Somtochukwu|Mbuko| | | | |
-
 
 ### Final Assignment (Research Paper)
 
