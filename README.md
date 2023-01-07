@@ -153,7 +153,7 @@ During the course we will have personal real-world exercises helping you start i
 |Maja|Czekała|https://Maja03.github.io| | | |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 |Zakia|Reaza| | | |
-
+|Sohanur|Rahaman|https://sohanurrahaman01316.github.io/Seabeach/ |Pandemics & Technology|Technological evolution during pandemic|Hospital Workers, Software Engineers|
 
 ### Final Assignment (Research Paper)
 
