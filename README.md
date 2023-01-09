@@ -152,6 +152,7 @@ During the course we will have personal real-world exercises helping you start i
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io| | | |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
+|Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 |Zakia|Reaza| | | |
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
 
