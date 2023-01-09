@@ -147,7 +147,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia| | | | |
 |Md|Rafsun| | | | |
-|Paya|Karimi| | | | |
+|Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io| | | |
