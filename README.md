@@ -131,11 +131,10 @@ During the course we will have personal real-world exercises helping you start i
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
-|Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector| |
+|Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
 |Mahek| Vora| | | | |
-|Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
