@@ -97,7 +97,7 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] [Session 4 - Ethics](md/session_04.md)
 - [ ] [Session 5 - Forms of Ownership](md/session_05.md)
 
-- [ ] [Session 6 - Entrepreneurship](md/session_06.md)
+- [x] [Session 6 - Entrepreneurship](md/session_06.md)
 - [ ] [Session 7 - Management](md/session_07.md)
 - [ ] [Session 8 - Organization & Teamwork](md/session_08.md)
 - [ ] [Session 9 - Value Chain](md/session_09.md)
