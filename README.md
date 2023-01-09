@@ -134,6 +134,7 @@ During the course we will have personal real-world exercises helping you start i
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector| |
 |Bernadette|Nakazibwe|||||
 |Joumana|Salahaldin| | | | |
+|Mahek| Vora| | | | |
 |Zephaniah|Okari| |cybersecurity|healthcare sector| |
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
@@ -155,7 +156,6 @@ During the course we will have personal real-world exercises helping you start i
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 |Zakia|Reaza| | | |
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
-
 
 ### Final Assignment (Research Paper)
 
