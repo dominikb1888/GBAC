@@ -145,7 +145,7 @@ During the course we will have personal real-world exercises helping you start i
 |B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed| | | | |
 |Sahan|Adikaram| | | | |
-|Shikut|Mia| | | | |
+|Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| | | | |
 |Paya|Karimi| | | | |
 |Paniz|Ziaie| | | | |
