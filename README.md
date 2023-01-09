@@ -155,9 +155,9 @@ During the course we will have personal real-world exercises helping you start i
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 |Zakia|Reaza| | | |
+|Sohanur|Rahaman|https://sohanurrahaman01316.github.io/Seabeach/ |Pandemics & Technology|Technological evolution during pandemic|Hospital Workers, Software Engineers|
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application| Medical Officers, Students, Professors|
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
-
 
 ### Final Assignment (Research Paper)
 
