@@ -142,10 +142,10 @@ During the course we will have personal real-world exercises helping you start i
 |Zubaer|Ahmed| | | | |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
-|B M Muntasir|Fahim| | | | |
-|Emon|Ahmed| | | | |
+|B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
+|Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
 |Sahan|Adikaram| | | | |
-|Shikut|Mia| | | | |
+|Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
 |Paya|Karimi| | | | |
 |Paniz|Ziaie| | | | |
