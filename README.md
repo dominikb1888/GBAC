@@ -148,7 +148,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sahan|Adikaram| | | | |
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
-|Paya|Karimi| | | | |
+|Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
 |Maja|Czekała|https://Maja03.github.io| | | |
