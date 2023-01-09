@@ -153,6 +153,7 @@ During the course we will have personal real-world exercises helping you start i
 |Maja|Czekała|https://Maja03.github.io| | | |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 |Zakia|Reaza| | | |
+|Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
 
 
 ### Final Assignment (Research Paper)
