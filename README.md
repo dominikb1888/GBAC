@@ -28,6 +28,9 @@ During the course we will have personal real-world exercises helping you start i
 - [x] topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
+## Student Blogs
+
+[Student Blogs](bloglist.md)
 
 
 
