@@ -125,7 +125,7 @@ During the course we will have personal real-world exercises helping you start i
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
-|Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
+|Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
