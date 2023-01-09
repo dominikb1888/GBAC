@@ -127,7 +127,7 @@ During the course we will have personal real-world exercises helping you start i
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
-|Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
+|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | people suffering from psoriasis | | |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
@@ -140,8 +140,8 @@ During the course we will have personal real-world exercises helping you start i
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
-|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology    | IT & Health Sector |
-|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
+|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
+|Ali |Badran |https://github.com/ali-b7/My-Stuff | | | | Effect of Nutrition apps on Health |||
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
@@ -151,7 +151,7 @@ During the course we will have personal real-world exercises helping you start i
 |Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
-|Maja|Czekała|https://Maja03.github.io| | | |
+|Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports |Digital Health in Sports |athletes, physiotherapists, people working in the sport field, people intrested in sport |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 |Zakia|Reaza| | | |
