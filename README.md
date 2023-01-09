@@ -124,6 +124,7 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
+| Karim | Haidar | karim-haidar.github.io/22W/ | Helping Visually Impaired With AI | Empowering the Visually Impaired With AI  | Visually Impaired |
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
@@ -158,6 +159,7 @@ During the course we will have personal real-world exercises helping you start i
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application| Medical Officers, Students, Professors|
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
+
 ### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
