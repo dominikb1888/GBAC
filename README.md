@@ -140,7 +140,7 @@ During the course we will have personal real-world exercises helping you start i
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
-|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
+|Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology    | IT & Health Sector |
 |Ali |Badran |https://github.com/ali-b7/My-Stuff | | | |
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
@@ -158,7 +158,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sohanur|Rahaman|https://sohanurrahaman01316.github.io/Seabeach/ |Pandemics & Technology|Technological evolution during pandemic|Hospital Workers, Software Engineers|
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application| Medical Officers, Students, Professors|
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
-
+|Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 ### Final Assignment (Research Paper)
 
 - Write a blog post with about 1000 words on a self-chosen topic within the space of Digital Health
