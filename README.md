@@ -151,7 +151,7 @@ During the course we will have personal real-world exercises helping you start i
 |Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Paniz|Ziaie| | | | |
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/ | | | |
-|Maja|Czekała|https://Maja03.github.io| | | |
+|Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports |Digital Health in Sports |athletes, physiotherapists, people working in the sport field, people intrested in sport |
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/ | | | |
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media |information through virtual networks and communities | bloggers and others people |
 |Zakia|Reaza| | | |
