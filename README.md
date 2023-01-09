@@ -127,7 +127,7 @@ During the course we will have personal real-world exercises helping you start i
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
-|Franziska | Wojtkowski | https://github.com/xginevra/good_vibes | people suffering from psoriasis | | |
+|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | people suffering from psoriasis | | |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
