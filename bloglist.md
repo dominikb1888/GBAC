@@ -39,3 +39,4 @@
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem| | | |
+|Abraham Tamba|Borbor jr||||
