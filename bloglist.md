@@ -39,3 +39,4 @@
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem| | | |
+|Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
