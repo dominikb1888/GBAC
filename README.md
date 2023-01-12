@@ -127,7 +127,7 @@ During the course we will have personal real-world exercises helping you start i
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-|Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
+|Faith|Nalwoga|https://faithlisa.github.io/|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io|How to create effiency in Health with AI|AI and Health|Corporate/Individuals|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | how health informatics can help people suffering from psiorasis | dealing with psiorasis in daily life | people with psiorasis |
