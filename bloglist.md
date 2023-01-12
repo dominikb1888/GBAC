@@ -13,10 +13,9 @@
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
 |Bernadette|Nakazibwe|||||
-|Joumana|Salahaldin| | | | |
 |Mahek| Vora| | | | |
 |BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
-|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Health-Blog/ | | | |
+|Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
 |Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
@@ -40,3 +39,5 @@
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem| | | |
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
+|Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
+|Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
