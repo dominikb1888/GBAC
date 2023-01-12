@@ -28,6 +28,9 @@ During the course we will have personal real-world exercises helping you start i
 - [x] topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
+## Student Blogs
+
+[Student Blogs](bloglist.md)
 
 
 
@@ -72,8 +75,8 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
 - [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
 - [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
-- [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+- [x] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [x] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
 
@@ -97,7 +100,7 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] [Session 4 - Ethics](md/session_04.md)
 - [ ] [Session 5 - Forms of Ownership](md/session_05.md)
 
-- [ ] [Session 6 - Entrepreneurship](md/session_06.md)
+- [x] [Session 6 - Entrepreneurship](md/session_06.md)
 - [ ] [Session 7 - Management](md/session_07.md)
 - [ ] [Session 8 - Organization & Teamwork](md/session_08.md)
 - [ ] [Session 9 - Value Chain](md/session_09.md)
@@ -158,6 +161,7 @@ During the course we will have personal real-world exercises helping you start i
 |Sohanur|Rahaman|https://sohanurrahaman01316.github.io/Seabeach/ |Pandemics & Technology|Technological evolution during pandemic|Hospital Workers, Software Engineers|
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application| Medical Officers, Students, Professors|
 |Abdus | Salam | https://abdus273.github.io/hi-blog/ | Big Data | Big Data In Health Industry| Software Engineers/ Researchers/ Medical Officers|
+
 
 ### Final Assignment (Research Paper)
 
