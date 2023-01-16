@@ -3,7 +3,7 @@
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
 |---|---|---|---|---|---|
-| Karim | Haidar | karim-haidar.github.io/22W/ | Helping Visually Impaired With AI | Empowering the Visually Impaired With AI  | Visually Impaired |
+| Karim | Haidar | https://karim-haidar.github.io/22W/ | Helping Visually Impaired With AI | Empowering the Visually Impaired With AI  | Visually Impaired |
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
@@ -23,7 +23,7 @@
 |Md Sayed|Hossen| | | | |
 |B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
-|Sahan|Adikaram| | | | |
+|Sahan|Adikaram| |Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
 |Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
@@ -41,3 +41,4 @@
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
+|Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
