@@ -7,7 +7,7 @@
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
-|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | people suffering from psoriasis | | |
+|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | How health informatics can help people suffering from psoriasis | Dealing with psoriasis in everyday life | people suffering from psoriasis and those who are interested |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
