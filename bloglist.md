@@ -12,9 +12,8 @@
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
-|Bernadette|Nakazibwe|||||
 |Mahek| Vora| | | | |
-|BERNADETTE|NAKAZIBWE|https://bernadettenakazibwe.github.io/ |Application of Technology in Health Sector|Medical Technologies|Pehttps://bernadettenakazibwe.github.io/ople interested in supporting continuity of Digital Health|
+|BERNADETTE|NAKAZIBWE|https://bernadettenakazibwe.github.io/APPLICATION-OF-TECHNOLOGY-IN-HEALTH-SECTOR/ |Application of Technology in Health Sector|Medical Technologies|People interested in supporting continuity of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
