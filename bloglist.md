@@ -42,3 +42,4 @@
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
 |Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
+|Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
