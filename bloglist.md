@@ -23,6 +23,11 @@
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application|Medical Officers, Students, Professors|
 |Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
+|Obo Effiong|Ekanem| | | |
+|Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
+|Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
+|Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
+|Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people|
 |Somtochukwu|Mbuko|||||
 |Shikut|Mia|https://shikutmia.github.io/|Social media and suicide prevention|Digital health technologies and smart structuring for suicide prevention|Social media users,Psychiatrist,General People|
@@ -39,3 +44,4 @@
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|||||
+|Victor|Okolie|||||
