@@ -12,8 +12,7 @@
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
-|Bernadette|Nakazibwe|||||
-|BERNADETTE|NAKAZIBWE|https://github.com/Bernadettenakazibwe/My-work.git |Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
+|Bernadette|Nakazibwe|https://bernadettenakazibwe.github.io/APPLICATION-OF-TECHNOLOGY-IN-HEALTH-SECTOR/ |Application of Technology in Health Sector|Medical Technologies|People interested in supporting continuity of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
@@ -53,7 +52,6 @@
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people|
 |Somtochukwu|Mbuko|||||
 |Shikut|Mia|https://shikutmia.github.io/|Social media and suicide prevention|Digital health technologies and smart structuring for suicide prevention|Social media users,Psychiatrist,General People|
-|Bernadette|Nakazibwe|https://github.com/Bernadettenakazibwe/My-work.git|Empowerment through digital health|Digital Health Advantages|People interested in supporting the continuation of Digital Health|
 |Faith|Nalwoga|https://faithlisa.github.io/|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Zephaniah|Okari|https://zlittleking.github.io|cybersecurity|healthcare sector|Healthcare Facilities|
 |Md|Rafsun|https://rafsun4.github.io/health-tek/blog1.html|Blockchain & Healthcare|How blockchain can affect healthcare industry|Software Engineers/Pharmacuticals/Medical Officers|
