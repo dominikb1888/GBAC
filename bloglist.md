@@ -38,4 +38,4 @@
 |Mahek|Vora|||||
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
-|Paniz|Ziaie|||||
+|Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
