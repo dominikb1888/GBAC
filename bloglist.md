@@ -61,7 +61,7 @@
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |Abdus|Salam|https://abdus273.github.io/hi-blog/|Big Data|Big Data In Health Industry|Software Engineers/ Researchers/ Medical Officers|
 |Saw|Steven|https://github.com/PokieSteven/Blog1/|Medical Genetics|The Future of Medical Genetics and the Importance of Digital Health|General/ Scientific Community|
-|Mahek| Vora| https://github.com/voram/VR-in-Surgical-Training.git| VR in Surgical training | Digitization in Health | Students |
+|Mahek| Vora| https://voram.github.io/Digitalisation-in-Physiotherapy/ | Digital Physiotherapy | Digitization in Health | Senior Citizens, Patients |
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
