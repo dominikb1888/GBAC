@@ -12,10 +12,10 @@
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
-|Bernadette|Nakazibwe|https://bernadettenakazibwe.github.io/APPLICATION-OF-TECHNOLOGY-IN-HEALTH-SECTOR/ |Application of Technology in Health Sector|Medical Technologies|People interested in supporting continuity of Digital Health|
+|Bernadette|Nakazibwe|https://bernadettenakazibwe.github.io |Application of Technology in Health Sector|Medical Technologies|People interested in supporting continuity of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
-|Md Adnan|Abir| https://md-adnan-abir.github.io | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
+|Md Adnan|Abir| https://md-adnan-abir.github.io/research-paper/ | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
 |Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
 |Ali |Badran |https://ali-b7.github.io/ | | | | Effect of Nutrition apps on Health |||
 |Md Sayed|Hossen| | | | |
@@ -24,7 +24,7 @@
 |Sahan|Adikaram| |Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
-|Md Adnan|Abir|https://md-adnan-abir.github.io|Telemedicine|Internet consultation in the medical sector|Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas|
+|Md Adnan|Abir| https://md-adnan-abir.github.io/research-paper/ |Telemedicine|Internet consultation in the medical sector|Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas|
 |Sahan|Adikaram||Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
 |Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
 |Emon|Ahmed|https://emon1073.github.io|Enhancing Investments in Health Information Technology|Why we should invest more in health information technology|General Audience & Government Authorities|
@@ -64,6 +64,7 @@
 |Mahek| Vora| https://github.com/voram/VR-in-Surgical-Training.git| VR in Surgical training | Digitization in Health | Students |
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
-|Paniz|Ziaie|||||
+|Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
 |Ujjwal Santhosh| |Ponthanalil| |Virtual Reality and Augmented reality in Surgical training!| |VR & AR in Surgucal Training| |Medical Aspiring Students|
+|Sagar|Sharma|https://github.com/sagar-sh/Wearable-Medical-Devices.git| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
