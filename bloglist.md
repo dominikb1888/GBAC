@@ -66,3 +66,4 @@
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|||||
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
+|Sagar|Sharma|https://github.com/sagar-sh/Wearable-Medical-Devices.git| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
