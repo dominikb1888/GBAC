@@ -58,7 +58,10 @@ During the course we will have personal real-world exercises helping you start i
 - [x] Check with `bash echo $SHELL`
 - [x] Customize with OH MY ZSH: https://ohmyz.sh
 - [x] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
-- [ ] Understanding the nixos approach: https://alexpearce.me/2021/07/managing-dotfiles-with-nix/
+- [ ] Containerize your development using docker: (1): https://fastapi.tiangolo.com/deployment/docker/ (2): https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-image.html
+- [ ] Understanding the nixos approach: (1): https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix (2): https://alexpearce.me/2021/07/managing-dotfiles-with-nix/
+- [ ] Docker + Nix: https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/
+
 
 #### Exploring new commands and tools
 
