@@ -66,4 +66,5 @@
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
+|Ujjwal Santhosh| |Ponthanalil| |Virtual Reality and Augmented reality in Surgical training!| |VR & AR in Surgucal Training| |Medical Aspiring Students|
 |Sagar|Sharma|https://github.com/sagar-sh/Wearable-Medical-Devices.git| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
