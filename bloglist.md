@@ -19,7 +19,6 @@
 |Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
 |Ali |Badran |https://ali-b7.github.io/ | | | | Effect of Nutrition apps on Health |||
 |Md Sayed|Hossen| | | | |
-|B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
 |Sahan|Adikaram|https://sahanadikaram.github.io/Sahan-Adikaram/|Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
@@ -38,7 +37,7 @@
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
 |Obo Effiong|Ekanem|||||
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/||||
-|B M Muntasir|Fahim|https://muntasirfahim.github.io/|Digital Health|The indestructible influence of Social Networking Platforms on the Digital Healthcare System|General Public, Health Professionals and associates|
+|B M Muntasir|Fahim|https://muntasirfahim.github.io/|mHealth|The Role of mHealth in Improving Healthcare Outcomes|General Public, Health Professionals and associates, Users of Social Media, Software Engineers|
 |Karim|Haidar|https://karim-haidar.github.io/22W/|Helping Visually Impaired With AI|Empowering the Visually Impaired With AI|Visually Impaired|
 |Md Sayed|Hossen|||||
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application|Medical Officers, Students, Professors|
