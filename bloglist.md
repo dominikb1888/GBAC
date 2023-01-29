@@ -68,3 +68,4 @@
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
 |Ujjwal Santhosh| |Ponthanalil| |Virtual Reality and Augmented reality in Surgical training!| |VR & AR in Surgucal Training| |Medical Aspiring Students|
 |Sagar|Sharma|https://github.com/sagar-sh/Wearable-Medical-Devices.git| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
+|Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
