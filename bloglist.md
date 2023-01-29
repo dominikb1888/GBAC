@@ -17,7 +17,7 @@
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io/research-paper/ | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
 |Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
-|Ali |Badran |https://ali-b7.github.io/ | | | | Effect of Nutrition apps on Health |||
+|Ali |Badran |https://ali-b7.github.io/ | Effect of Nutrition apps on Health | Consumers, IT & Health Sector | |
 |Md Sayed|Hossen| | | | |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
 |Sahan|Adikaram|https://sahanadikaram.github.io/Sahan-Adikaram/|Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
