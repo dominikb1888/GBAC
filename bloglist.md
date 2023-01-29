@@ -7,7 +7,7 @@
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
-|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | people suffering from psoriasis | | |
+|Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | How health informatics can help people suffering from psoriasis | Dealing with psoriasis in daily life | people suffering from psoriasis and those who are interested |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
@@ -17,9 +17,8 @@
 |lana|zamel|https://lanazamel.github.io/LanaZamel207/| | | |
 |Md Adnan|Abir| https://md-adnan-abir.github.io/research-paper/ | Telemedicine | Internet consultation in the medical sector | Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas |
 |Zubaer|Ahmed| https://zubaerahmed69.github.io/health-blog/ | Impact of IT in Healthcare System | Health & Information Technology	 | IT & Health Sector |
-|Ali |Badran |https://ali-b7.github.io/ | | | | Effect of Nutrition apps on Health |||
+|Ali |Badran |https://ali-b7.github.io/ | Effect of Nutrition apps on Health | Consumers, IT & Health Sector | |
 |Md Sayed|Hossen| | | | |
-|B M Muntasir|Fahim| https://muntasirfahim.github.io/ | Digital Health | The indestructible influence of Social Networking Platforms on the Digital Healthcare System | General Public, Health Professionals and associates |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
 |Sahan|Adikaram|https://sahanadikaram.github.io/Sahan-Adikaram/|Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
@@ -38,7 +37,7 @@
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
 |Obo Effiong|Ekanem|||||
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/||||
-|B M Muntasir|Fahim|https://muntasirfahim.github.io/|Digital Health|The indestructible influence of Social Networking Platforms on the Digital Healthcare System|General Public, Health Professionals and associates|
+|B M Muntasir|Fahim|https://muntasirfahim.github.io/|mHealth|The Role of mHealth in Improving Healthcare Outcomes|General Public, Health Professionals and associates, Users of Social Media, Software Engineers|
 |Karim|Haidar|https://karim-haidar.github.io/22W/|Helping Visually Impaired With AI|Empowering the Visually Impaired With AI|Visually Impaired|
 |Md Sayed|Hossen|||||
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application|Medical Officers, Students, Professors|
@@ -61,11 +60,12 @@
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
 |Abdus|Salam|https://abdus273.github.io/hi-blog/|Big Data|Big Data In Health Industry|Software Engineers/ Researchers/ Medical Officers|
 |Saw|Steven|https://github.com/PokieSteven/Blog1/|Medical Genetics|The Future of Medical Genetics and the Importance of Digital Health|General/ Scientific Community|
-|Mahek| Vora| https://github.com/voram/VR-in-Surgical-Training.git| VR in Surgical training | Digitization in Health | Students |
+|Mahek| Vora| https://voram.github.io/Digitalisation-in-Physiotherapy/ | Digital Physiotherapy | Digitization in Health | Senior Citizens, Patients |
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
-|Ujjwal Santhosh| |Ponthanalil| |Virtual Reality and Augmented reality in Surgical training!| |VR & AR in Surgucal Training| |Medical Aspiring Students|
 |Sagar|Sharma|https://github.com/sagar-sh/Wearable-Medical-Devices.git| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
 |Hasin Arman Bin|Hamid|https://github.com/HasinArman/AI-used-to-diagnose-COVID-19-in-a-chest-CT.git| AI used to diagnose Covid 19 in Chest CT| Diagnosed diseases with the help of artificial intelligence| Health and IT|
+| Kazi Mehedi Hasan | Emon | https://mehedihasan2000.github.io/my-blog/ | Biotechnology | Biotechnology in Health Industry | Medical officers, health professionals and associates, Medical workers |
+|Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
