@@ -54,7 +54,7 @@
 |Shikut|Mia|https://shikutmia.github.io/|Social media and suicide prevention|Digital health technologies and smart structuring for suicide prevention|Social media users,Psychiatrist,General People|
 |Faith|Nalwoga|https://faithlisa.github.io/|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Zephaniah|Okari|https://zlittleking.github.io|cybersecurity|healthcare sector|Healthcare Facilities|
-|Md|Rafsun|https://rafsun4.github.io/health-tek/blog1.html|Blockchain & Healthcare|How blockchain can affect healthcare industry|Software Engineers/Pharmacuticals/Medical Officers|
+|Md|Rafsun|https://rafsun4.github.io/health-tek/|Blockchain & Healthcare|How blockchain can affect healthcare industry|Software Engineers/Pharmacuticals/Medical Officers|
 |Sohanur|Rahaman|https://sohanurrahaman01316.github.io/Seabeach/|Pandemics & Technology|Technological evolution during pandemic|Hospital Workers, Software Engineers|
 |Zakia|Reaza|||||
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
