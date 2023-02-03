@@ -69,4 +69,4 @@
 |Hasin Arman Bin|Hamid|https://github.com/HasinArman/AI-used-to-diagnose-COVID-19-in-a-chest-CT.git| AI used to diagnose Covid 19 in Chest CT| Diagnosed diseases with the help of artificial intelligence| Health and IT|
 | Kazi Mehedi Hasan | Emon | https://mehedihasan2000.github.io/my-blog/ | Biotechnology | Biotechnology in Health Industry | Medical officers, health professionals and associates, Medical workers |
 |Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
-|Farakh|Riaz|https://github.com/Farakh45/Digital-health-interoperability-network.git| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
+|Farakh|Riaz|https://farakh45.github.io/Digital-Health-Interoperability-Network/| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
