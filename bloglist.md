@@ -20,7 +20,7 @@
 |Ali |Badran |https://ali-b7.github.io/ | Effect of Nutrition apps on Health | Consumers, IT & Health Sector | |
 |Md Sayed|Hossen| | | | |
 |Emon|Ahmed|https://emon1073.github.io |Enhancing Investments in Health Information Technology | Why we should invest more in health information technology|General Audience & Government Authorities|
-|Sahan|Adikaram|https://sahanadikaram.github.io/Sahan-Adikaram/|Telehealth|Remote patient monitoring (RPM)|Healthcare professionals, People working in the healthcare sector, Students|
+|Sahan|Adikaram|https://sahanadikaram.github.io/Sahan-Adikaram/|Telehealth|Remote Patient Monitoring (RPM) With IoT|Healthcare professionals, People working in the healthcare sector, Students|
 |Shikut|Mia|https://shikutmia.github.io/ |Social media and suicide prevention |Digital health technologies and smart structuring for suicide prevention |Social media users,Psychiatrist,General People|
 |Md|Rafsun| https://rafsun4.github.io/health-tek/blog1.html | Blockchain & Healthcare | How blockchain can affect healthcare industry | Software Engineers/Pharmacuticals/Medical Officers |
 |Md Adnan|Abir| https://md-adnan-abir.github.io/research-paper/ |Telemedicine|Internet consultation in the medical sector|Digitalized hospitals, Doctors, freelancing healthcare workers, and people living in remote areas|
