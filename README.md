@@ -127,7 +127,7 @@ During the course we will have personal real-world exercises helping you start i
 
 ## Class Topics and Repositories
 
-[Blog List]{bloglist.md)
+[Blog List](bloglist.md)
 
 
 ### Final Assignment (Research Paper)
