@@ -63,7 +63,7 @@
 |Mahek| Vora| https://voram.github.io/Digitalisation-in-Physiotherapy/ | Digital Physiotherapy | Digitization in Health | Senior Citizens, Patients |
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
-|Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
+|Paniz|Ziaie|https://thisispaniz.github.io/AR-in-Healthcare/|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
 |Sagar|Sharma|https://sagar-sh.github.io/Wearable-Medical-Devices/| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
 |Hasin Arman Bin|Hamid|https://github.com/HasinArman/AI-used-to-diagnose-COVID-19-in-a-chest-CT.git| AI used to diagnose Covid 19 in Chest CT| Diagnosed diseases with the help of artificial intelligence| Health and IT|
