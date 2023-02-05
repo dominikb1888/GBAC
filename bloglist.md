@@ -44,7 +44,7 @@
 |Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem| | | |
-|Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
+|Bilge|Deliceo|https://bilgedeliceo.github.io/HakunaMatata/| Usage and Effectiveness of Mental Health Apps| Consumers and Mental Health Professionals|
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
 |Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
