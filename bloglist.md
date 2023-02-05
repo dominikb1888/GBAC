@@ -8,7 +8,7 @@
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git||||
 |Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | people suffering from psoriasis | | |
-| Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
+| Saw | Steven | https://github.com/PokieSteven/Blog1 | Medical Informatics | The Future of Medical Genetics and the Importance of Digital Health | General, Scholars, Researchers |
 | Karim | Haidar | | | | |
 |Somtochukwu|Mbuko| | | | |
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
