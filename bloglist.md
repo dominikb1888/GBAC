@@ -70,3 +70,4 @@
 | Kazi Mehedi Hasan | Emon | https://mehedihasan2000.github.io/my-blog/ | Biotechnology | Biotechnology in Health Industry | Medical officers, health professionals and associates, Medical workers |
 |Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
 |Farakh|Riaz|https://github.com/Farakh45/Digital-health-interoperability-network.git| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
+|Efosa Daniel|Osemwengie|https://efosdan.github.io/Cybersecurity-in-Healthcare/|Cyber Security in Digital Health|Cyber Security in healthcare|Healthcare Organizations|
