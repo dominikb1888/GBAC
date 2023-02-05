@@ -35,7 +35,8 @@
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git||||
 |Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports|Digital Health in Sports|athletes, physiotherapists, people working in the sport field, people intrested in sport|
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
-|Obo Effiong|Ekanem|||||
+|Obo Effiong|Ekanem|https://github.com/Ekanem-obo/the-impact-of-technology-on-dermatology-practises|The Impact Of Technology On Dermatology Practises
+|THE IMPACT OF TECHNOLOGY ON DERMATOLOGY PRACTISES|Dermatologists|
 |Noura|Eltahawi|https://nou-ra1981.github.io/Blog-Post/||||
 |B M Muntasir|Fahim|https://muntasirfahim.github.io/|mHealth|The Role of mHealth in Improving Healthcare Outcomes|General Public, Health Professionals and associates, Users of Social Media, Software Engineers|
 |Karim|Haidar|https://karim-haidar.github.io/22W/|Helping Visually Impaired With AI|Empowering the Visually Impaired With AI|Visually Impaired|
