@@ -66,7 +66,7 @@
 |Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
 |Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
 |Sagar|Sharma|https://sagar-sh.github.io/Wearable-Medical-Devices/| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
-|Hasin Arman Bin|Hamid|https://github.com/HasinArman/AI-used-to-diagnose-COVID-19-in-a-chest-CT.git| AI used to diagnose Covid 19 in Chest CT| Diagnosed diseases with the help of artificial intelligence| Health and IT|
+|Hasin Arman Bin|Hamid|https://hasinarman.github.io/AI-used-to-diagnose-COVID-19-in-a-chest-CT/| Diagnosed diseases with the help of artificial intelligence|AI used to diagnose Covid 19 in Chest CT| Health and IT|
 | Kazi Mehedi Hasan | Emon | https://mehedihasan2000.github.io/my-blog/ | Biotechnology | Biotechnology in Health Industry | Medical officers, health professionals and associates, Medical workers |
 |Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
 |Farakh|Riaz|https://github.com/Farakh45/Digital-health-interoperability-network.git| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
