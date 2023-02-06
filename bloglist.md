@@ -32,6 +32,8 @@
 |Ali|Badran|https://ali-b7.github.io/||||
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media|information through virtual networks and communities|bloggers and others people|
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/||||
+|Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git||||
+|Maja|Czekała|https://Maja03.github.io|Digital Technology in American Football|Digital Health in American Football|athletes, people working in the sport field, people intrested in sport|
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|Electronic medical records and telemedicine|Innovate developing country healthcare system|Health Organisations and NGO's|
 |Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports|Digital Health in Sports|athletes, physiotherapists, people working in the sport field, people intrested in sport|
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
