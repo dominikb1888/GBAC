@@ -10,7 +10,7 @@
 |Franziska | Wojtkowski | https://xginevra.github.io/good_vibes/ | How health informatics can help people suffering from psoriasis | Dealing with psoriasis in daily life | people suffering from psoriasis and those who are interested |
 | Saw | Steven | https://github.com/PokieSteven/W22-23---IBA-Acc | - | - | - |
 | Karim | Haidar | | | | |
-|Somtochukwu|Mbuko| | | | |
+|Somtochukwu Ikemdinachukwu|Mbuko|https://github.com/s-mbk/xenobots|Xenobots - Potential Applications of Programmable Life|Abstract|The General Public (especially the science-inclined)|
 |Zephaniah|Okari| https://zlittleking.github.io |cybersecurity|healthcare sector|Healthcare Facilities|
 |Bernadette|Nakazibwe|https://bernadettenakazibwe.github.io |Application of Technology in Health Sector|Medical Technologies|People interested in supporting continuity of Digital Health|
 |Joumana|Salahaldin|https://joumanasalahedin.github.io/Digital-Patient-Records/|Digitalization of Patient Records|Advancing the Digitalization Patients' Medical Records|Medical Sector and Health Specialized Software Engineers|
