@@ -41,7 +41,7 @@
 |Karim|Haidar|https://karim-haidar.github.io/22W/|Helping Visually Impaired With AI|Empowering the Visually Impaired With AI|Visually Impaired|
 |Md Sayed|Hossen|||||
 |Mohammed|Jubair|https://jubairraabi.github.io/dit-health-business/|Bioinformatics|Bioinformatics & it's application|Medical Officers, Students, Professors|
-|Paya|Karimi|https://github.com/ABiteofPi|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
+|Paya|Karimi|https://abiteofpi.github.io/Digital-Health-Blog/|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem|https://ekanem-obo.github.io/the-impact-of-technology-on-dermatology-practises/ | The Impact of Technology On Dermatology Practises | |
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
