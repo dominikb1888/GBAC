@@ -44,7 +44,6 @@
 |Paya|Karimi|https://abiteofpi.github.io/Digital-Health-Blog/|Digital Solutions and Assistance for the Neurodivergent|Digital Health for The Brain|Indivituals, Caregivers, Mental Health Professionals|
 |Olti|Kenga|https://oltikng.github.io/nano-tech/|Nanotechnology in Healthcare|Nanotechnology in Medicine|Healthcare Companies|
 |Obo Effiong|Ekanem|https://ekanem-obo.github.io/the-impact-of-technology-on-dermatology-practises/ | The Impact of Technology On Dermatology Practises | |
-|Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git|||
 |Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|||
 |Joseph|Kobbinah|https://joey-212.github.io/research-paper/|Effectiveness of mobile apps in improving self-management in type 2 Diabetes patients|Effectiveness of mobile apps in improving self-management in type 2 Diabetes|Diabetic people |
 |Francisca|Agyeiwaa-Sarpong|https://agyeifrancisca81.github.io/research-paper/|Prevalence of gestational diabetes in pregnant women|Gestational diabetes|Pregnant women|
