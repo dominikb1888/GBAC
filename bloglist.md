@@ -32,7 +32,7 @@
 |Ali|Badran|https://ali-b7.github.io/||||
 |Abu|Bakker|https://abubakker369.github.io/|the internet and social media|information through virtual networks and communities|bloggers and others people|
 |Hania|Batt|https://haniabatt.github.io/Digital-Health/||||
-|Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git||||
+|Abraham Tamba|Borbor jr|https://github.com/Braham2u/research-paper.git|Electronic medical records and telemedicine|Innovate developing country healthcare system|Health Organisations and NGO's|
 |Maja|Czekała|https://Maja03.github.io|How does Digital Technology affect Sports|Digital Health in Sports|athletes, physiotherapists, people working in the sport field, people intrested in sport|
 |Bilge|Deliceo|https://github.com/bilgedeliceo/bobs.git||||
 |Obo Effiong|Ekanem|||||
@@ -64,9 +64,10 @@
 |Franziska|Wojtkowski|https://xginevra.github.io/good_vibes/|how health informatics can help people suffering from psiorasis|dealing with psiorasis in daily life|people with psiorasis|
 |lana|Zamel|https://lanazamel.github.io/LanaZamel207/||||
 |Paniz|Ziaie|https://thisispaniz.github.io|Uses of augmented reality in education and preperation for surgeries|Augmented Reality in Healthcare|Medical Professionals - Digital Health Experts|
-|Victor|Okolie| |Effects of health care/information technology |The effects of health information technology on the cost and quality of medical care |Students, pregnant women, Researchers, medical officers |
+|Victor|Okolie|https://victorokolie.github.io/Victor---Okolie/|Health Information Technology (HIT)|Health Information Technology (HIT) With Its Negative And Positive Effects|Students,Researchers,medical officers|
 |Sagar|Sharma|https://sagar-sh.github.io/Wearable-Medical-Devices/| Wearable Medical Devices| Wearable Medical Devices and their uses in Healthcare System|Hospital Worker's/Doctors/Mecical Offcers/Health I.T/Digital Technology|
-|Hasin Arman Bin|Hamid|https://github.com/HasinArman/AI-used-to-diagnose-COVID-19-in-a-chest-CT.git| AI used to diagnose Covid 19 in Chest CT| Diagnosed diseases with the help of artificial intelligence| Health and IT|
+|Hasin Arman Bin|Hamid|https://hasinarman.github.io/AI-used-to-diagnose-COVID-19-in-a-chest-CT/| Diagnosed diseases with the help of artificial intelligence|AI used to diagnose Covid 19 in Chest CT| Health and IT|
 | Kazi Mehedi Hasan | Emon | https://mehedihasan2000.github.io/my-blog/ | Biotechnology | Biotechnology in Health Industry | Medical officers, health professionals and associates, Medical workers |
 |Ujjwal Santhosh|Ponthanalil|https://meanrox16.github.io/Virtual-and-Augmented-Reality-in-Surgical-Training/|Virtual Reality and Augmented reality in Surgical training!|VR & AR in Surgucal Training|Medical Aspiring Students|
 |Farakh|Riaz|https://farakh45.github.io/Digital-Health-Interoperability-Network/| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
+|Princepaul|Izuogu|https://princepaulizuogu.github.io/research-paper/|Will Covid-19 jumpstart the digital healthcare revolution?|Will Covid-19 jumpstart the digital healthcare revolution?|Healthcare facilities|
