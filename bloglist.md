@@ -2,7 +2,7 @@
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|---|---|---|---|---|---|
+| Rajeha Kelly | Khalil | https://github.com/kellykhalil23/vocal-biomakers.git | Voices to diagnose illnesses is that possible? | vocal biomarkers| health sector |
 | Karim | Haidar | https://karim-haidar.github.io/22W/ | Helping Visually Impaired With AI | Empowering the Visually Impaired With AI  | Visually Impaired |
 |Faith|Nalwoga|https://github.com/faithlisa/my-blog-post.git|health information exchange|heaith information exchange between medical offficers|medical offficers|
 |Rodrigo|Azevedo|https://rodrigobivarazevedo.github.io/research-paper/|Artificial Intelligence in Medicine|How can AI create efficiency and effectiveness in Digital Health|Corporations|
