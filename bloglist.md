@@ -74,7 +74,7 @@
 |Farakh|Riaz|https://github.com/Farakh45/Digital-health-interoperability-network.git| Digital Health Interoperability Network|Interoperability in Digital Healthcare System|Digital Health,Health Technology,Health Workers|
 |Efosa Daniel|Osemwengie|https://efosdan.github.io/Cybersecurity-in-Healthcare/|Cyber Security in Digital Health|Cyber Security in healthcare|Healthcare Organizations|
 |Princepaul|Izuogu|https://princepaulizuogu.github.io/research-paper/|Will Covid-19 jumpstart the digital healthcare revolution?|Will Covid-19 jumpstart the digital healthcare revolution?|Healthcare facilities|
-|Ali|Abdullah|https://aliabx.github.io/|Advancements in AI and Robotics|Advancements in AI and Robotics: Revolutionizing Healthcare|
+|Ali|Abdullah|https://github.com/aliabx/aliabx.github.io|Advancements in AI and Robotics|Advancements in AI and Robotics: Revolutionizing Healthcare|
 
 
 
