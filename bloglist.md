@@ -75,3 +75,4 @@
 |Efosa Daniel|Osemwengie|https://efosdan.github.io/Cybersecurity-in-Healthcare/|Cyber Security in Digital Health|Cyber Security in healthcare|Healthcare Organizations|
 |Princepaul|Izuogu|https://princepaulizuogu.github.io/research-paper/|Will Covid-19 jumpstart the digital healthcare revolution?|Will Covid-19 jumpstart the digital healthcare revolution?|Healthcare facilities|
 |Prithivraj|Umapathy|https://github.com/prithivraj09/future-of-health-care|Future of healthcare|Navigating the Future of Healthcare: A Holistic Approach|Healthcare providers |
+|Murtaza|Mushtaq|https://github.com/murtaza65/murtaza65.github.io|Remote patient Monitoring|Improving health outcomes using remote patient monitoring|Patients in need of patient monitoring|
