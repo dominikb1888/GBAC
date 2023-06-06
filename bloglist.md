@@ -75,3 +75,4 @@
 |Efosa Daniel|Osemwengie|https://efosdan.github.io/Cybersecurity-in-Healthcare/|Cyber Security in Digital Health|Cyber Security in healthcare|Healthcare Organizations|
 |Princepaul|Izuogu|https://princepaulizuogu.github.io/research-paper/|Will Covid-19 jumpstart the digital healthcare revolution?|Will Covid-19 jumpstart the digital healthcare revolution?|Healthcare facilities|
 |Prithivraj|Umapathy|https://github.com/prithivraj09/future-of-health-care|Future of healthcare|Navigating the Future of Healthcare: A Holistic Approach|Healthcare providers |
+|Sophia|Namaganda|https://github.com/Namsophia/namsophia.github.io.git|digital technologies|The technological approaches to health care systems|Health care sectors|
