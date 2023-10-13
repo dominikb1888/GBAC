@@ -1,6 +1,6 @@
-# Basics of Business and Accounting
+# General Business and Accounting
 
-This will be an unusual introduction to business and accounting. One targeted at future developers. We will start with you, because business starts with you. Let's understand many concepts of the business world by understanding how to use you computing environment in the most optimal way for you. This means understanding operating systems, shells, and customization options. We will be reflecting on efficiency, productivity and automation. Working our way up to the market, where you need to position yourself as a developer and compete with others. Building your personal profiles and understanding collaborative systems like Git and Github is key. Building and maintaining your digital identity and by sharing learning and projects will help foster your personal development. Reflecting on this journey then means looking at accounting and budgeting your personal business/brand. Join me for the most unusual Journey into the business world. It all starts with you.
+This will be an unusual introduction to business and accounting. One targeted at future developers. We will start with you, because business starts with you. Let's understand many concepts of the business world by understanding how to use your computing environment in the most optimal way for you. This means understanding operating systems, shells, and customization options. We will be reflecting on efficiency, productivity and automation. Working our way up to the market, where you need to position yourself as a developer and compete with others. Building your personal profiles and understanding collaborative systems like Git and Github is key. Building and maintaining your digital identity by sharing learning and projects will help foster your personal development. Reflecting on this journey means looking at accounting and budgeting your personal business/brand. Join us for the most unusual journey into the business world. It all starts with you.
 
 ## Structure
 
@@ -93,13 +93,22 @@ As part of the course you will pick and conduct a personal automation project an
 
 ## Class Project
 
-- Write a blog with on a self-chosen automation project
-- Share your piece on a personal blog you created using Github Pages
+- Write a blog with on a self-chosen automation project relating to your content creation activities
+- Share your piece and content created within this semester on a personal blog you created using Github Pages
+
+
+## Advanced Topcis
+
+If you have some previous experience with Linux give Nixos a shot. It is a declarative approach to managing software builds and is also used to manage personal development environments/system configurations. It has a steep learning curve in the beginning, but pays off in the end.
+
+- https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/
+- https://docs.replit.com/tutorials/python/build-with-nix
 
 
 ## Examples of interesting Tech Bloggers:
 
--
+- TJ de Vries:
 - Mitchell Hashimoto:
-- Martin Heinz
+- Martin Heinz:
+- Chris Chuarulli:
 
