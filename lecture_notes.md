@@ -13,8 +13,23 @@
 - Introduction to Basic Command-Line Tools
     - Navigating the file system
     - Creating and Deleting files
-    - Rights management and Ownership
-    - Shell Scripting
 
 - VIM
+    - Basic introduction to modes
+    - Basic horizontal movement
+    - Creating new lines
+    - Searching
+    - Saving and Closing
+
 - GIT
+    - Creating a repository
+    - Editing and Committing files
+    - HOMEWORK: Editing locally using SSH-Access
+
+
+## Session 3 - October 31, 2023
+
+- Rights management and Ownership
+- Shell Scripting
+
+

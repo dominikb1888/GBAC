@@ -36,13 +36,13 @@ As part of the course you will pick and conduct a personal automation project an
 
 ### Command Line
 
-- [ ] [CLI Tutorial](md/cli_tutorial.md)
-- [ ] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+- [x] [CLI Tutorial](md/cli_tutorial.md)
+- [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 
 ### Vim
 
-- [ ] [VIM Tutorial](md/vim_tutorial.md)
+- [x] [VIM Tutorial](md/vim_tutorial.md)
 - [ ] Vim Tutorial: https://danielmiessler.com/study/vim/
 
 
