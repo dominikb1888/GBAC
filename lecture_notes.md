@@ -3,6 +3,8 @@
 - Intro to Business and Entrepreneurship: Start with YOU
 - Info on the Class Project: Build a personal blog and content as well as a personal productivity hack/script/automation
 - Getting started with Linux and the Command Line
+    - Download Virtualbox from virtualbox.org
+    - Download Ubuntu from ubuntu.com
 
 
 ## Session 2 - October 24, 2023
