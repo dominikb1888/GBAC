@@ -24,6 +24,7 @@ During the course we will have personal real-world exercises helping you start i
 - [ ] topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
+
 ## Student Blogs
 As part of the course you will pick and conduct a personal automation project and write a blog about it. You will start using scripting languages, e.g. Python right away and get a headstart into programming.
 
