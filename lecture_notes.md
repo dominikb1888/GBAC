@@ -29,7 +29,9 @@
 
 ## Session 3 - October 31, 2023
 
-- Rights management and Ownership
+- Linux - Rights management and Ownership
+- VIM and its language
+- Customizing NEOVIM 
 - Shell Scripting
 
 
