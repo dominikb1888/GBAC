@@ -44,6 +44,7 @@ As part of the course you will pick and conduct a personal automation project an
 
 - [x] [VIM Tutorial](md/vim_tutorial.md)
 - [ ] Vim Tutorial: https://danielmiessler.com/study/vim/
+- [ ] Neovim Kickstart: https://www.youtube.com/watch?v=stqUbv-5u2s
 
 
 ### Shell Customization and Dotfiles
