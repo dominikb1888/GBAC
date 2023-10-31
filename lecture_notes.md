@@ -29,9 +29,13 @@
 
 ## Session 3 - October 31, 2023
 
-- Linux - Rights management and Ownership
-- VIM and its language
-- Customizing NEOVIM 
+- ZSH and OHMYZSH
+- .dotfiles
 - Shell Scripting
+- VIM and its language
+  
 
+## Session 4 - November 7, 2023
 
+- Customizing NEOVIM
+- Linux - Rights management and Ownership
