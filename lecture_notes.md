@@ -33,9 +33,10 @@
 - .dotfiles
 - Shell Scripting
 - VIM and its language
-  
+
 
 ## Session 4 - November 7, 2023
 
 - Customizing NEOVIM
 - Linux - Rights management and Ownership
+
