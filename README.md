@@ -64,10 +64,11 @@ As part of the course you will pick and conduct a personal automation project an
 
 - [ ] Neovim and Lunarvim
 - [ ] fzf (fuzzy finder)
-- [ ] rg (ripgrep)
+- [x] grep/rg (ripgrep)
 - [ ] jq
 - [ ] curl
-- [ ] sed / awk
+- [x] awk
+- [ ] sed
 
 ### Git and Github
 
