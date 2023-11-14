@@ -83,7 +83,7 @@ As part of the course you will pick and conduct a personal automation project an
 
 ## Personal Blog:
 
-- [ ] Create Github Pages Blog: pages.github.com
+- [x] Create Github Pages Blog: pages.github.com
 
 
 ### Pandoc
