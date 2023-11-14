@@ -1,4 +1,6 @@
-README.md:3:business
+|File|Line|Context|
+|---|---|---|
+|README.md|3|business|
 README.md:3:business
 README.md:3:business
 README.md:3:business
