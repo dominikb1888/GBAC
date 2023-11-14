@@ -1,0 +1,1 @@
+printf "| File | Line Number | Content |\r\n|------|-------------|---------|\n" > markdown_table.md && grep -rnHo "business" * | awk -F: '{print "| " $1 " | " $2 " | " $3 " |"}' | sed 's/\r$//' >> markdown_table.md
