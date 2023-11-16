@@ -92,10 +92,12 @@ As part of the course you will pick and conduct a personal automation project an
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-## Class Project
+## Exam and Class Project
 
-- Write a blog with at least 4 posts (1000 words each) on a self-chosen automation project relating to your content creation activities
-- Share your piece and content created within this semester on a personal blog you created using Github Pages
+- Create some personal content in a blog with Github Pages.
+- Write at least 4 blog posts (1000 words each) on a self-chosen automation project relating to your content creation activities.
+- Make sure there is at least one week between each post, try and engage as many classmates as possible to use and feedback on your automation and blog content.
+- Feedback on both Automation Projects and Blog Content should be as specific as possible and in the form of Pull Requests.
 
 
 ## Advanced Topcis
