@@ -7,7 +7,7 @@
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ |
 | BAMMEZ |  |
 | tomx7 |  |
-| Oscarkyamuwendo |  |
+| Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ |
 | Melise_Rocha |  |
 | jysndabu |  |
 | Adedipe23 |  |
@@ -17,7 +17,7 @@
 | GBAC |  |
 | TELEMEDICINE |  |
 | David001d |  |
-| Repojuanchoupegui |  |
+| Repojuanchoupegui | https://23w-gbac.github.io/Repojuanchoupegui/ |
 | Jokestevens |  |
 | udehadaeze |  |
 | SinaNajafi1 |  |
@@ -31,7 +31,7 @@
 | safrinfaizy |  |
 | whyteman95 |  |
 | blog-muhammad-dawood |  |
-| dominik_dotfiles |  |
+| dominik_dotfiles | https://dominikboehler.de |
 | MOE350 |  |
 | gansah-blog |  |
 | blog |  |
