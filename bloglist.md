@@ -13,3 +13,4 @@
 | Maryem | Abdellah | https://github.com/23W-GBAC/Maryem-Mohamed.git | Not-decided | title-not-decided | audience-not-decided |
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
+| Dominic | Nketia| git@github.com:23W-GBAC/NDYawt.git| Not-decided | title-not-decided | audience-not-decided |
