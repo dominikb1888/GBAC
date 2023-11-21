@@ -1,0 +1,1 @@
+echo "| Description | Homepage URL | Name | Stargazer Count |" >  bloglist_auto.md | echo "|---|---|---|---|" >> bloglist_auto.md | gh repo list 23W-GBAC -L 100 --json name --json description --json stargazerCount --json homepageUrl | jq -r '.[] | [.description, .homepageUrl, .name, .stargazerCount] | @tsv' | sed 's/\t/ | /g' | sed 's/$/ |/g' >> bloglist_auto.md
