@@ -1,46 +1,46 @@
-| Description | Homepage URL | Name | Stargazer Count |
-|---|---|---|---|
- |  | gansah-s-blog | 0 |
- |  | AmaAdusei | 0 |
- |  | NastLenBlog | 0 |
-empty |  | Anukuga | 0 |
-"Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data | https://23w-gbac.github.io/Azukaego_blog/ | Azukaego_blog | 0 |
- |  | BAMMEZ | 0 |
- |  | tomx7 | 0 |
- |  | Oscarkyamuwendo | 0 |
- |  | Melise_Rocha | 0 |
- |  | jysndabu | 0 |
- |  | Adedipe23 | 0 |
- |  | kseniiavi | 0 |
- |  | Fisayo_Adedoyin_Blog | 0 |
- |  | prity_Blog | 0 |
- |  | GBAC | 0 |
- |  | TELEMEDICINE | 0 |
- |  | David001d | 0 |
- |  | Repojuanchoupegui | 0 |
- |  | Jokestevens | 0 |
- |  | udehadaeze | 0 |
- |  | SinaNajafi1 | 0 |
- |  | README.md- | 0 |
- |  | SenaDok | 0 |
- |  | yashar2028 | 0 |
- |  | OnlyAhmeds | 0 |
- |  | MohAli92 | 0 |
- |  | Boves556_Lucky | 0 |
- |  | Maryem-Mohamed | 0 |
- |  | safrinfaizy | 0 |
- |  | whyteman95 | 0 |
- |  | blog-muhammad-dawood | 0 |
- |  | dominik_dotfiles | 0 |
- |  | MOE350 | 0 |
- |  | gansah-blog | 0 |
- |  | blog | 0 |
- |  | Tabs208 | 0 |
- |  | blog-dominikb1888 | 0 |
- |  | NDYawt | 0 |
- |  | Heshamelmogy | 0 |
- |  | nada1347 | 0 |
- |  | SuraniKrrish | 0 |
- |  | .github | 0 |
- |  | Chiwuba | 0 |
- |  | prity007 | 0 |
+| Name | Homepage URL  |
+|---|---|
+| gansah-s-blog |  |
+| AmaAdusei |  |
+| NastLenBlog |  |
+| Anukuga |  |
+| Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ |
+| BAMMEZ |  |
+| tomx7 |  |
+| Oscarkyamuwendo |  |
+| Melise_Rocha |  |
+| jysndabu |  |
+| Adedipe23 |  |
+| kseniiavi |  |
+| Fisayo_Adedoyin_Blog |  |
+| prity_Blog |  |
+| GBAC |  |
+| TELEMEDICINE |  |
+| David001d |  |
+| Repojuanchoupegui |  |
+| Jokestevens |  |
+| udehadaeze |  |
+| SinaNajafi1 |  |
+| README.md- |  |
+| SenaDok |  |
+| yashar2028 |  |
+| OnlyAhmeds |  |
+| MohAli92 |  |
+| Boves556_Lucky |  |
+| Maryem-Mohamed |  |
+| safrinfaizy |  |
+| whyteman95 |  |
+| blog-muhammad-dawood |  |
+| dominik_dotfiles |  |
+| MOE350 |  |
+| gansah-blog |  |
+| blog |  |
+| Tabs208 |  |
+| blog-dominikb1888 |  |
+| NDYawt |  |
+| Heshamelmogy |  |
+| nada1347 |  |
+| SuraniKrrish |  |
+| .github |  |
+| Chiwuba |  |
+| prity007 |  |
