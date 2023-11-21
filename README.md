@@ -65,11 +65,11 @@ As part of the course you will pick and conduct a personal automation project an
 - [ ] Neovim and Lunarvim
 - [ ] fzf (fuzzy finder)
 - [x] grep/rg (ripgrep)
-- [ ] gh
-- [ ] jq
-- [ ] curl
+- [x] gh
+- [x] jq
+- [x] curl
 - [x] awk
-- [ ] sed
+- [x] sed
 
 ### Git and Github
 
@@ -77,7 +77,7 @@ As part of the course you will pick and conduct a personal automation project an
 - [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
 - [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
 - [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in gh
+- [x] A PR Review Process in gh
 - [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
