@@ -21,7 +21,7 @@ During the course we will have personal real-world exercises helping you start i
 ### Develop your Personal Brand
 
 - [ ] Build your personal online profile for professional networking
-- [ ] topics of interest and communication for your professional outreach
+- [ ] Topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
 
@@ -65,6 +65,7 @@ As part of the course you will pick and conduct a personal automation project an
 - [ ] Neovim and Lunarvim
 - [ ] fzf (fuzzy finder)
 - [x] grep/rg (ripgrep)
+- [ ] gh
 - [ ] jq
 - [ ] curl
 - [x] awk
@@ -73,10 +74,10 @@ As part of the course you will pick and conduct a personal automation project an
 ### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in gh
 - [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
