@@ -1,6 +1,7 @@
 | Name | Homepage URL  |
 |---|---|
 | blog_safrinfaizz |  |
+| Maryem-Mohamed |  |
 | gansah-s-blog |  |
 | AmaAdusei |  |
 | NastLenBlog |  |
@@ -10,7 +11,7 @@
 | tomx7 |  |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ |
 | Melise_Rocha |  |
-| jysndabu |  |
+| jysndabu | https://23w-gbac.github.io/jysndabu/ |
 | Adedipe23 |  |
 | kseniiavi |  |
 | Fisayo_Adedoyin_Blog |  |
@@ -28,7 +29,6 @@
 | OnlyAhmeds |  |
 | MohAli92 |  |
 | Boves556_Lucky |  |
-| Maryem-Mohamed |  |
 | safrinfaizy |  |
 | whyteman95 |  |
 | blog-muhammad-dawood |  |
