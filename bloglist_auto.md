@@ -1,6 +1,7 @@
 | Name | Homepage URL | Description |
-|---|---|---|
-| blog_safrinfaizz |  |  |
+| Shutter101 | https://23w-gbac.github.io/Shutter101/ | Explore the beauty of Germany and the world,  frame by frame. Unveil the travel gems woven with captivating images on this Github Repository . Optimizing different scripts for smooth transition from your gear to your repository. Join me and share your captured moment, where every image tells a story.  |
+| NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
+| safrinfaizz |  |  |
 | Maryem-Mohamed |  |  |
 | gansah-s-blog |  |  |
 | AmaAdusei |  |  |
@@ -11,7 +12,6 @@
 | tomx7 |  |  |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | This is my prediction towards the future of Artificial intelligence |
 | Melise_Rocha |  |  |
-| jysndabu | https://23w-gbac.github.io/jysndabu/ |  |
 | Adedipe23 |  |  |
 | kseniiavi |  |  |
 | Fisayo_Adedoyin_Blog |  |  |
@@ -38,7 +38,6 @@
 | blog |  |  |
 | Tabs208 |  |  |
 | blog-dominikb1888 |  |  |
-| NDYawt |  |  |
 | Heshamelmogy |  |  |
 | nada1347 |  |  |
 | SuraniKrrish |  |  |
