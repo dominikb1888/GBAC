@@ -15,7 +15,7 @@ During the course we will have personal real-world exercises helping you start i
 
 - [x] Work on understanding your operating system and customising it
 - [ ] Developing time management and productivity strategies
-- [ ] Get to know how to use developer tools
+- [x] Get to know how to use developer tools
 
 
 ### Develop your Personal Brand
@@ -118,4 +118,5 @@ If you have some previous experience with Linux give Nixos a shot. It is a decla
 - Mitchell Hashimoto: https://mitchellh.com/writing
 - Martin Heinz: https://martinheinz.dev/
 - Chris Chuarulli: https://github.com/ChristianChiarulli#updates
+- Simon Willison: https://simonwillison.net/
 - Suggest more bloggers you like :-)
