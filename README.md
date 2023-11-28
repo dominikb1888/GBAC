@@ -15,13 +15,13 @@ During the course we will have personal real-world exercises helping you start i
 
 - [x] Work on understanding your operating system and customising it
 - [ ] Developing time management and productivity strategies
-- [ ] Get to know how to use developer tools
+- [x] Get to know how to use developer tools
 
 
 ### Develop your Personal Brand
 
 - [ ] Build your personal online profile for professional networking
-- [ ] topics of interest and communication for your professional outreach
+- [ ] Topics of interest and communication for your professional outreach
 - [ ] Ideate on a personal branding strategy
 
 
@@ -65,18 +65,19 @@ As part of the course you will pick and conduct a personal automation project an
 - [ ] Neovim and Lunarvim
 - [ ] fzf (fuzzy finder)
 - [x] grep/rg (ripgrep)
-- [ ] jq
-- [ ] curl
+- [x] gh
+- [x] jq
+- [x] curl
 - [x] awk
-- [ ] sed
+- [x] sed
 
 ### Git and Github
 
 - [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [ ] A PR Review Process in Neovim: https://github.com/pwntester/octo.nvim#-pr-review
+- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [x] A PR Review Process in gh
 - [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
@@ -91,10 +92,12 @@ As part of the course you will pick and conduct a personal automation project an
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-## Class Project
+## Exam and Class Project
 
-- Write a blog with at least 4 posts (1000 words each) on a self-chosen automation project relating to your content creation activities
-- Share your piece and content created within this semester on a personal blog you created using Github Pages
+- Create some personal content in a blog with Github Pages.
+- Write at least 4 blog posts (1000 words each) on a self-chosen automation project relating to your content creation activities.
+- Make sure there is at least one week between each post, try and engage as many classmates as possible to use and feedback on your automation and blog content.
+- Feedback on both Automation Projects and Blog Content should be as specific as possible and in the form of Pull Requests.
 
 
 ## Advanced Topcis
@@ -115,4 +118,5 @@ If you have some previous experience with Linux give Nixos a shot. It is a decla
 - Mitchell Hashimoto: https://mitchellh.com/writing
 - Martin Heinz: https://martinheinz.dev/
 - Chris Chuarulli: https://github.com/ChristianChiarulli#updates
+- Simon Willison: https://simonwillison.net/
 - Suggest more bloggers you like :-)

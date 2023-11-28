@@ -1,0 +1,1 @@
+echo "| File | Line Number | Content |" > markdown_table.md && echo "|--- |--- |--- |" >> markdown_table.md && grep -rnHo "business" * | awk -F: '{print "| " $1 " | " $2 " | " $3 "| "}' >> markdown_table.md
