@@ -13,3 +13,5 @@
 | Maryem | Abdellah | https://github.com/23W-GBAC/Maryem-Mohamed.git | Not-decided | title-not-decided | audience-not-decided |
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
+| David | Ogbonda | https://23w-gbac.github.io/David001d/ | Transformative Role Of Artificial Intelligence In Antimicrobial Management | What is Anti microbial resitance | Pharamceutical Institutes| 
+
