@@ -33,7 +33,7 @@
 | yashar2028 |  |  |
 | OnlyAhmeds |  |  |
 | MohAli92 |  |  |
-| Boves556_Lucky |  |  |
+| Boves556_Lucky | https://github.com/23W-GBAC/Boves556_Lucky | You think gaming is bad, I this might change your mind 😉 |
 | safrinfaizy |  |  |
 | whyteman95 |  |  |
 | blog-muhammad-dawood |  |  |
