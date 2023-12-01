@@ -1,5 +1,8 @@
 | Name | Homepage URL | Description |
 |---|---|---|
+| safrinfaizz | https://23w-gbac.github.io/safrinfaizz/ | A recipe has no soul, as the cook, must bring soul to the recipe. In my blog, i'll be highlighting the diverse and flavouful world of indian cusine. Each state of india has it's own special language ,identity and delicious food. so, i would be  more engaged in to south indian foods. join me and share your favourite recipes. |
+| kseniiavi |  |  |
+| Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
 | TELEMEDICINE |  |  |
 | Melise_Rocha | https://23w-gbac.github.io/Melise_Rocha/ | Improving Quality of MRI images |
 | Fisayo_Adedoyin_Blog |  |  |
@@ -16,14 +19,11 @@
 | Heshamelmogy.github.io |  |  |
 | David001d | https://23w-gbac.github.io/David001d/ | Antimicrobial resistance happens when germs like bacteria and fungi develop the ability to defeat the drugs designed to kill them. That means the germs are not killed and continue to grow. |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | This is my prediction towards the future of Artificial intelligence |
-| Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
 | udehadaeze |  |  |
 | NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
-| safrinfaizz |  |  |
 | Maryem-Mohamed |  |  |
 | gansah-s-blog |  |  |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
-| kseniiavi |  |  |
 | prity_Blog |  |  |
 | GBAC |  |  |
 | Jokestevens |  |  |
