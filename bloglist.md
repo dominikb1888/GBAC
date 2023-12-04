@@ -2,7 +2,7 @@
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|---|---|---|---|---|---|
+
 |   Faith-|Eke---|-Work--|Foreigners Job Search Challange---|Job---|-Foreigners--|
 | Dominik | Boehler | github.com/dominikb1888/GBAC | Data Quality | Wearable Data Harmonization | Cardiologists in Germany |
 | Kseniia | Vinogradova | https://github.com/23W-GBAC/kseniiavi.git | Injuries | First book | Readers |
@@ -13,3 +13,4 @@
 | Maryem | Abdellah | https://github.com/23W-GBAC/Maryem-Mohamed.git | Not-decided | title-not-decided | audience-not-decided |
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
+|Hesham|Elmogy|github.com/23W-GBAC/Hesham-Elmogy|Fitness and Exercise|Foundations of Fitness|Healthy People|
