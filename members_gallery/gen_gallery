@@ -40,7 +40,9 @@ for name in names:
             if author:
                 authors[author['login']] = author
         else:
-            print(f"Failed to fetch commits. Status code: {response.status_code}")text = []
+            print(f"Failed to fetch commits. Status code: {response.status_code}")
+
+text = []
 for author in authors.values():
     name = author['login']
     img = author['avatar_url']
