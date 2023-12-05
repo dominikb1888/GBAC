@@ -39,7 +39,7 @@ text = []
 for author in authors.values():
     name = author['login']
     img = author['avatar_url']
-    text.append(f"![{name}]({img})")
+    text.append(f"[![{name}]({img})]({url})")
 
 result = " ".join(text)
 print(result)
