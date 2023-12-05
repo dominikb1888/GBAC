@@ -1,0 +1,48 @@
+#!/usr/bin/env python
+
+import requests # TODO: Remove requests in favor of builtin modules
+from dotenv import dotenv_values # TODO: Find way to load env vars
+
+config = dotenv_values("../.env") # TODO: Relative path to config file
+config
+
+headers = {
+     'Authorization': f"token {config['GHTOKEN']}",
+     #'Accept': 'application/vnd.github.v3+json'
+}
+
+url = f"https://api.github.com/orgs/{config['GHORG']}/repos?per_page=100"
+response = requests.get(url, headers=headers)
+if response.status_code == 200:
+    json = response.json()
+    names = []
+    for repo in json:
+        names.append(repo['name'])
+    else:
+        print(f"Failed to fetch repos. Status code: {response.status_code}")
+
+authors = {}
+for name in names:
+    # https://api.github.com/repos/23W-GBAC/SenaDok/commits
+    print(url)
+    url = f"https://api.github.com/repos/23W-GBAC/{name}/commits"
+    # get author of last commit
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        author = response.json()[0]['author']
+        if author:
+            authors[author['login']] = author
+    else:
+        print(f"Failed to fetch commits. Status code: {response.status_code}")
+
+text = []
+for author in authors.values():
+    name = author['login']
+    img = author['avatar_url']
+    text.append(f"![{name}]({img})")
+
+result = " ".join(text)
+print(result)
+
+with open('gallery.md', 'w') as file:
+    file.write(result)
