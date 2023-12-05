@@ -13,4 +13,4 @@
 | Maryem | Abdellah | https://github.com/23W-GBAC/Maryem-Mohamed.git | Not-decided | title-not-decided | audience-not-decided |
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
-| Hesham | Elmogy | github.com/23W-GBAC/Hesham-Elmogy | Fitness and Exercise | Foundations of Fitness | Healthy People |
+| Hesham | Elmogy | https://github.com/23W-GBAC/Hesham-Elmogy.git | Fitness and Exercise | Foundations of Fitness | Healthy People |
