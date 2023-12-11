@@ -14,3 +14,4 @@
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | MRI | How to increase MRI image quality? | Computer scientists|
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
 | Juan Pablo | Herrera Upegui | https://23w-gbac.github.io/Repojuanchoupegui/ | A Journey Into Progamming | Downloading Stuff | New Programmers |
+| Oscar | Kyamuwendo| https://github.com/23W-GBAC/Oscarkyamuwendo.git |Artificial Intelligence | The Other side of Artificial Intelligence | Programmers |
