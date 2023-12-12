@@ -1,4 +1,5 @@
 | Name | Homepage URL | Description |
+|---|---|---|
 | AmaAdusei | https://23w-gbac.github.io/AmaAdusei/ | Mental Health is important. According to WHO, health is the state of complete physical, mental and social wellbeing and not merely the absence of sickness. So on this repository, join me talk about Dealing With Change. let us decode life changes which has the tendency of affecting the mental health.  |
 | NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
