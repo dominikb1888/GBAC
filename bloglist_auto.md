@@ -1,5 +1,6 @@
 | Name | Homepage URL | Description |
 |---|---|---|
+| Boves556_Lucky |  |  |
 | NastLenBlog | https://23w-gbac.github.io/NastLenBlog/ | Paws and Claws - everything about Animals |
 | AmaAdusei | https://23w-gbac.github.io/AmaAdusei/ | Mental Health is important. According to WHO, health is the state of complete physical, mental and social wellbeing and not merely the absence of sickness. So on this repository, join me talk about Dealing With Change. let us decode life changes which has the tendency of affecting the mental health.  |
 | NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
@@ -13,7 +14,6 @@
 | Blog---adamganiu11 |  | creating a repository as an assignment in my 23W -GBAC class |
 | kseniiavi |  |  |
 | Melise_Rocha | https://23w-gbac.github.io/Melise_Rocha/ | Improving Quality of MRI images |
-| Boves556_Lucky |  |  |
 | Adedipe23 | https://23w-gbac.github.io/Adedipe23/ | ai involves creating computer systems that mimic human intelligence, performing tasks like learning and problem-solving. Through machine learning, these systems adapt and improve with experience. Applications range from virtual assistants to autonomous vehicles, shaping various industries and raising ethical considerations. |
 | Hesham-Elmogy |  |  |
 | udehadaeze |  |  |
