@@ -1,6 +1,5 @@
 |   session |   exercise | name                     | link                                    |
 |----------:|-----------:|:-------------------------|:----------------------------------------|
-|        00 |         00 | empty                    | https://classroom.github.com/a/oIfF8am9 |
 |        01 |         01 | Hello World              | https://classroom.github.com/a/vBkKmXAj |
 |        01 |         02 | Leap                     | https://classroom.github.com/a/nvrmEstA |
 |        01 |         03 | Gigasecond               | https://classroom.github.com/a/Y9dnRAgp |
