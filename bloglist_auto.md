@@ -21,7 +21,7 @@
 | Fisayo_Adedoyin_Blog | https://23w-gbac.github.io/Fisayo_Adedoyin_Blog/ |  |
 | safrinfaizz | https://23w-gbac.github.io/safrinfaizz/ | A recipe has no soul, as the cook, must bring soul to the recipe. In my blog, i'll be highlighting the diverse and flavouful world of indian cusine. Each state of india has it's own special language ,identity and delicious food. so, i would be  more engaged in to south indian foods. join me and share your favourite recipes. |
 | Anukuga | https://23w-gbac.github.io/Anukuga/ | i have Choosen topics related to health which can be highly beneficial as Health is a universal concern that impacts everyone, regardless of age, gender, or background. Writing about health ensures relevance to a broad audience, contributing to knowledge about maintaining a healthy lifestyle and preventing diseases |
-| TELEMEDICINE |  |  |
+| MUTALEGEORGE_blogpost |  |  |
 | tomx7 |  |  |
 | RHYAN2 | https://github.com/23W-GBAC/RHYAN2 | This blog is about mental illness as it is affectig alot of youths,adults in the modern ge |
 | Health-digitization |  |  |
