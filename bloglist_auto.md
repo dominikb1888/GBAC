@@ -1,5 +1,6 @@
 | Name | Homepage URL | Description |
 |---|---|---|
+| NastLenBlog | https://23w-gbac.github.io/NastLenBlog/ | Paws and Claws - everything about Animals |
 | AmaAdusei | https://23w-gbac.github.io/AmaAdusei/ | Mental Health is important. According to WHO, health is the state of complete physical, mental and social wellbeing and not merely the absence of sickness. So on this repository, join me talk about Dealing With Change. let us decode life changes which has the tendency of affecting the mental health.  |
 | NDYawt | https://23w-gbac.github.io/NDYawt/ |  |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
@@ -7,7 +8,6 @@
 | Shutter101 | https://23w-gbac.github.io/Shutter101/ | Explore the beauty of Germany and the world,  frame by frame. Unveil the travel gems woven with captivating images on this Github Repository . Optimizing different scripts for smooth transition from your gear to your repository. Join me and share your captured moment, where every image tells a story.  |
 | Youssef-Daoud | https://mrhowtz.github.io/Youssef-Daoud/ | This is a blog about the negative effects of being chronically online. |
 | blog-muhammad-dawood |  |  |
-| NastLenBlog | https://23w-gbac.github.io/NastLenBlog/ | Paws and Claws - everything about Animals |
 | MohAli92 |  |  |
 | David001d | https://23w-gbac.github.io/David001d/ | This is about the transformative role of artificial intelligence in the field of antimicrobial research and management. It suggests a focus on how AI is influencing and changing the landscape of activities related to antimicrobial research and the overall management of antimicrobial-related issues.  |
 | Blog---adamganiu11 |  | creating a repository as an assignment in my 23W -GBAC class |
