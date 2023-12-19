@@ -119,4 +119,5 @@ If you have some previous experience with Linux give Nixos a shot. It is a decla
 - Martin Heinz: https://martinheinz.dev/
 - Chris Chuarulli: https://github.com/ChristianChiarulli#updates
 - Simon Willison: https://simonwillison.net/
+- Susie Lu: https://susielu.com/data-viz
 - Suggest more bloggers you like :-)
