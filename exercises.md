@@ -11,6 +11,6 @@
 |        01 |         08 | Bob                      | https://classroom.github.com/a/O5qKk3Di | [ ]  |
 |        01 |         09 | Resistor Color           | https://classroom.github.com/a/vS648Z3p | [ ]  |
 |        01 |         10 | Resistor Color Duo       | https://classroom.github.com/a/TwvMuVOg | [ ]  |
-|        01 |         11 | High Scores              | https://classroom.github.com/a/bGF9er6b | [ ]  |
+|        01 |         11 | High Scores              | https://classroom.github.com/a/bGF9er6b | [x]|
 |        01 |         12 | Difference Of Squares    | https://classroom.github.com/a/J4Cu1cZJ | [ ]  |
 
