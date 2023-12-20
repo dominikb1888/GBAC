@@ -1,4 +1,5 @@
 | Name | Homepage URL | Description |
+|---|---|---|
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | I have come up with Uncommon facts in the world of  Artificial intelligence  |
 | MOE350 |  |  |
