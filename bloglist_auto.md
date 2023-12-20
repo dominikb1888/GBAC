@@ -1,4 +1,6 @@
 | Name | Homepage URL | Description |
+|---|---|---|
+| Youssef-Daoud | https://mrhowtz.github.io/Youssef-Daoud/ | This is a blog about the negative effects of being chronically online. |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | I have come up with Uncommon facts in the world of  Artificial intelligence  |
 | MOE350 |  |  |
@@ -23,7 +25,6 @@
 | Fisayo_Adedoyin_Blog | https://23w-gbac.github.io/Fisayo_Adedoyin_Blog/ |  |
 | Jokestevens |  |  |
 | OnlyAhmeds |  |  |
-| Youssef-Daoud | https://mrhowtz.github.io/Youssef-Daoud/ | This is a blog about the negative effects of being chronically online. |
 | Anita-Blog | https://github.com/anitaarubi/Anita-Blog.git | Social media are online platforms enabling users to create, share, and exchange content. Users connect with others, follow content, and engage through features like: likes and comments. Popular platforms include Facebook, Twitter, Instagram, and TikTok, serving various purposes from personal expression to business marketing.  |
 | blog-muhammad-dawood |  |  |
 | MohAli92 |  |  |
