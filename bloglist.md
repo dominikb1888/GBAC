@@ -14,3 +14,4 @@
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
 |Oscar |Kyamuwendo|https://23w-gbac.github.io/Oscarkyamuwendo/| UNCOMMON FACTS ABOUT ARTIFICIAL INTELLIGENCE | SEEKERS OF KNOWLEDGE |
+| Khadija | Mahmoud | https://github.com/Khadija-mahmoud/ai_art_plagiarism_post | AI Art plagiarism post | AI Art Creative Expression or Plagiarism? | Public |
