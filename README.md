@@ -54,11 +54,11 @@ As part of the course you will pick and conduct a personal automation project an
 - [x] Customize with OH MY ZSH: https://ohmyz.sh
 - [x] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
 
-## Python Intro
+### Python Intro
 
-- [ ] Let's do 12 exercises to gain an insight into the main language features
-- [ ] Using Python for creating automation scripts on your OS
-
+- [x] Let's do 12 exercises to gain an insight into the main language features
+- [x] Using Python for creating automation scripts on your OS
+- Further Reading: https://automatetheboringstuff.com/
 
 ### Exploring new commands and tools
 
