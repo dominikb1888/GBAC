@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Pangram Test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest pangram_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}

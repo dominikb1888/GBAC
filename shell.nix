@@ -11,6 +11,7 @@ let
     jupyterlab
     ipython
     pip
+    pytest
   ];
 # https://ryantm.github.io/nixpkgs/languages-frameworks/python/#how-to-consume-python-modules-using-pip-in-a-virtual-environment-like-i-am-used-to-on-other-operating-systems
 in pkgs.mkShell rec {

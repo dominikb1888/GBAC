@@ -1,17 +1,13 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-import os
+import json
 from urllib.request import urlopen, Request
 
-## TODO: Check if .env file exists if not ask user to create one
-## TODO: authenticate via gh?
-config = {
-    'GHTOKEN': os.environ.get("GHTOKEN"),
-    'GHORG': os.environ.get("GHORG")
-}
+with open("config.json") as file:
+    config = json.load(file)
 
 headers = {
-     'Authorization': f"token {config['GHTOKEN']}",
+    'Authorization': f"token {config['GHTOKEN']}",
      'Accept': 'application/vnd.github.v3+json'
 }
 
@@ -29,9 +25,8 @@ with urlopen(httprequest) as response:
 
 authors = {}
 for name in names:
-    # https://api.github.com/repos/23W-GBAC/SenaDok/commits
-    print(url)
     url = f"https://api.github.com/repos/23W-GBAC/{name}/commits"
+    print(f"Currently fetching commits for: {name}")
     httprequest = Request(url, headers=headers)
     with urlopen(httprequest) as response:
         if response.status == 200:
@@ -49,7 +44,8 @@ for author in authors.values():
     text.append(f"[![{name}]({img})]({url})")
 
 result = " ".join(text)
-print(result)
+
 
 with open('gallery.md', 'w') as file:
     file.write(result)
+    print("All images written to gallery.md")
