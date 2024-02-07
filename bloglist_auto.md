@@ -1,6 +1,7 @@
 | Name | Homepage URL | Description |
 |---|---|---|
 | Youssef-Daoud | https://mrhowtz.github.io/Youssef-Daoud/ | This is a blog about the negative effects of being chronically online. |
+| Khadija Mahmoud | https://khadija-mahmoud.github.io/ai_art_plagiarism_post/ | Explore the fusion of AI and art in our blog, where we discuss how AI expands artistic boundaries and its ethical implications, including the question of whether AI art plagiarizes traditional artists or not. Join us to gain insights into the evolving digital art landscape. |
 | Azukaego_blog | https://23w-gbac.github.io/Azukaego_blog/ | Diving into the challenges of data quality in women's healthcare, exploring real-life stories that highlight the critical need for accurate data collection and its impact on diagnoses, treatment, and pharmaceutical advancements. Shedding light on the persistent issues of gender bias in healthcare and advocating for the importance of quality data. |
 | Oscarkyamuwendo | https://23w-gbac.github.io/Oscarkyamuwendo/ | I have come up with Uncommon facts in the world of  Artificial intelligence  |
 | MOE350 |  |  |
