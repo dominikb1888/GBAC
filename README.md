@@ -4,105 +4,200 @@ This will be an unusual introduction to business and accounting. One targeted at
 
 ## Structure
 
-### Lecture (30min):
+- Lecture: CS concepts (60min):
+- Hands-on: C Programming Practice (60min) and OS customization (60 min)
 
-### Exercise (150min):
-During the course we will have personal real-world exercises helping you start ideating on and building your professional profile in the Digital Healthcare Industry (and beyond, if you wish). We will:
+## Goals - Understand operating systems and take first steps as a developer
 
-## Goals
-
-### Help you become productive as a developer
-
-- [x] Work on understanding your operating system and customising it
-- [ ] Developing time management and productivity strategies
-- [x] Get to know how to use developer tools
-
-
-### Develop your Personal Brand
-
-- [ ] Build your personal online profile for professional networking
-- [ ] Topics of interest and communication for your professional outreach
-- [ ] Ideate on a personal branding strategy
+- [] Understand the low levels of your operating system and how to program them in C
+- [] Know and use modern command-line tools
+- [] Setup and maintain your personal development environment
 
 
 ## Student Blogs
-As part of the course you will pick and conduct a personal automation project and write a blog about it. You will start using scripting languages, e.g. Python right away and get a headstart into programming.
+
+As part of the course you will pick and conduct a personal automation project and write a blog about it. You will start using the C Programming language and get a low-level headstart into programming.
 
 [Student Blogs](bloglist.md)
 
 
 ## Excercises
 
+Join the C Language Track on Exercism to put your knowledge into practice. We will discuss exercises from Exercism every week: exercism.io
+
+## Lectures
+
+1. The Internal Language of Computers
+2. Combinatorial Logic
+4. Computer Anatomy
+5. Computer Architecture
+6. Communications Breakdown
+7. Organizing Data
+8. Language Processing
+9. The Web Browser
+10. Application and System Programming
+11. Shortcuts and Approximations
+12. Deadlocks and Race Conditions
+13. Security
+14. Machine Intelligence
+15. Real-World Considerations
+
+
+## Hands-on Exercises and Tutorials
+
+### 1. From Metal to Digits
+
+- Booting an operating system
+- Computer Components and Architecture
+- The Linux Environment
+- Shell Commands
+- Text Editors
+
+Tutorial: OS Install and Prompt customization with dotfiles
+
+
+### 2. Programming in C - Getting started
+
+- The C programming environment
+- Variables and Data Types
+- Making Decisions
+
+Tutorial:
+
+
+### 3. Programming in C - Working with Data
+
+- Loops
+- Arrays
+- Strings and Text
+
+Tutorial:
+
+
+### 4. Programming C - Designing Programs
+
+- Pointers
+- Structuring Programs with Functions
+- Essential IO
+
+Tutorial:
+
+
+### 5. Programming C - Data Structures, Files, and Debugging
+
+- structs
+- files
+- preprocessing and debugging
+
+Tutorial:
+
+
+### 6. Processes and Threads
+-
+
+Tutorial: Monitoring processes and performance
+
+### 7. POSIX standards and System Level APIs
+-
+
+Tutorial:
+
+### 8. Files and File systems
+
+- Linux directory structure
+- Inode structure
+- File permissions
+- Soft and hard links
+
+Tutorial: Creating directory level development environments
+
+### 9. Memory, Process and Signals
+
+- Memory Layout
+- Environment Variables
+- Kernel support processes
+- Process creation
+- Signals
+
+### 10. Interprocess Communication
+
+-
+
+Tutorial: Pipes, STDIN, STDOUT, STDERR
+
+
+### 11. Shared Memory
+
+- Ownership, Borrowing and the Dangers of Sharing
+
+### 12. Socket Programming
+
+- Introduction to network programming
+
+
+### 13. Own Project: Design
+
+### 14. Own Project: Implementation
+
+### 15. Own Project: Feedback
+
+
+
+## Tutorials (agile as we go)
 
 ### Command Line
 
-- [x] [CLI Tutorial](md/cli_tutorial.md)
-- [x] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
-
-
-### Vim
-
-- [x] [VIM Tutorial](md/vim_tutorial.md)
-- [ ] Neovim Kickstart: https://www.youtube.com/watch?v=stqUbv-5u2s
-- [x] Vim Tutorial: https://web.archive.org/web/20210801233614/https://danielmiessler.com/study/vim/
-
+- [ ] [CLI Tutorial](md/cli_tutorial.md)
+- [ ] Command Line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 ### Shell Customization and Dotfiles
 
-- [x] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
-- [x] Check with `bash echo $SHELL`
-- [x] Customize with OH MY ZSH: https://ohmyz.sh
-- [x] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
+- [ ] Install ZSH: https://gist.github.com/derhuerst/12a1558a4b408b3b2b6e
+- [ ] Check with `bash echo $SHELL`
+- [ ] Customize with OH MY ZSH: https://ohmyz.sh
+- [ ] Configuration and Dotfiles: https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789
 
-### Python Intro
+### Vim
 
-- [x] Let's do 12 exercises to gain an insight into the main language features
-- [x] Using Python for creating automation scripts on your OS
-- Further Reading: https://automatetheboringstuff.com/
+- [ ] [VIM Tutorial](md/vim_tutorial.md)
+- [ ] Neovim Kickstart: https://www.youtube.com/watch?v=stqUbv-5u2s
+- [ ] Vim Tutorial: https://web.archive.org/web/20210801233614/https://danielmiessler.com/study/vim/
+
 
 ### Exploring new commands and tools
 
 - [ ] Neovim and Lunarvim
 - [ ] fzf (fuzzy finder)
-- [x] grep/rg (ripgrep)
-- [x] gh
-- [x] jq
-- [x] curl
-- [x] awk
-- [x] sed
+- [ ] grep/rg (ripgrep)
+- [ ] gh
+- [ ] jq
+- [ ] curl
+- [ ] awk
+- [ ] sed
 
 ### Git and Github
 
-- [x] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
-- [x] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
-- [x] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
-- [x] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-- [x] A PR Review Process in gh
+- [ ] Git and Github: https://dev.to/colocodes/learn-how-to-use-git-and-github-in-a-team-like-a-pro-2dk7
+- [ ] Using Git Branches: https://www.nobledesktop.com/learn/git/git-branches
+- [ ] Checkout: Reverting to Previous or Other Versions: https://www.gitkraken.com/learn/git/problems/git-checkout-commit
+- [ ] Create Pull Request (PR): https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github and https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- [ ] A PR Review Process in gh
 - [ ] Resolve Merge Conflicts: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
 - [ ] Comparing Branches with Git Worktree
 
 
-## Personal Blog:
+### Personal Blog:
 
-- [x] Create Github Pages Blog: pages.github.com
+- [ ] Create Github Pages Blog: pages.github.com
 
 
-### Pandoc
+### Markdown, Pandoc, Latex
 
+- [ ] Latex
 - [ ] Transform Markdown into any Document with the Universal Document Converter: https://pandoc.org
 
 
-## Exam and Class Project
-
-- Create some personal content in a blog with Github Pages.
-- Write at least 4 blog posts (1000 words each) on a self-chosen automation project relating to your content creation activities.
-- Make sure there is at least one week between each post, try and engage as many classmates as possible to use and feedback on your automation and blog content.
-- Feedback on both Automation Projects and Blog Content should be as specific as possible and in the form of Pull Requests.
-
-
-## Advanced Topcis
-
-If you have some previous experience with Linux give Nixos a shot. It is a declarative approach to managing software builds and is also used to manage personal development environments/system configurations. It has a steep learning curve in the beginning, but pays off in the end.
+### Development environments and Deployment
 
 - [ ] https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/
 - [ ] https://docs.replit.com/tutorials/python/build-with-nix
@@ -110,6 +205,13 @@ If you have some previous experience with Linux give Nixos a shot. It is a decla
 - [ ] Understanding the nixos approach: (1): https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix (2): https://alexpearce.me/2021/07/managing-dotfiles-with-nix/
 - [ ] Docker + Nix: https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/
 
+
+## Exam and Class Project
+
+- Reach out:  Create blog on Github Pages.
+- Hands-on: Write at least 4 blog posts (1000 words each) on a self-chosen operating systems automation project
+- Iterate: Make sure there is at least one week between each post, try and engage as many classmates as possible to use and feedback on your automation and blog content.
+- Reflect:  Feedback on both Automation Projects should be as specific as possible and in the form of Pull Requests.
 
 
 ## Examples of interesting Tech Bloggers:
