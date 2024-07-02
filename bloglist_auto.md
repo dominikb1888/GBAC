@@ -1,7 +1,7 @@
 | Name | Homepage URL | Description |
+| AmaAdusei | https://23w-gbac.github.io/AmaAdusei/ | Mental Health is important. According to WHO, health is the state of complete physical, mental and social wellbeing and not merely the absence of sickness. So on this repository, join me talk about Dealing With Change. let us decode life changes which has the tendency of affecting the mental health.  |
 | YSOH_DH_Exam |  | COVID-19 Cases by District and Age Group in NoVA |
 | Fisayo2024 | https://23w-gbac.github.io/Fisayo2024/ | Achieving Sound Health & Reducing The Risk Of Diabetes Through Good Nutrition. |
-| AmaAdusei | https://23w-gbac.github.io/AmaAdusei/ | Mental Health is important. According to WHO, health is the state of complete physical, mental and social wellbeing and not merely the absence of sickness. So on this repository, join me talk about Dealing With Change. let us decode life changes which has the tendency of affecting the mental health.  |
 | Home_Automation |  |  |
 | MyProgrammingJourneyBlog | https://23w-gbac.github.io/MyProgrammingJourneyBlog/ | A description of the first steps to take and a summary of my experience in order to help you perform well as a new programmer. |
 | RHYAN2 | https://github.com/23W-GBAC/RHYAN2 | Mental health ,cancer and AI |
