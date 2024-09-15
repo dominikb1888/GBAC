@@ -1,7 +1,7 @@
 ## Class Topics and Repositories
 
 
-| First Name | Last Name | Repository | Topic | First Title | Target Group |
+| Khadija | Mahmoud | AI plagirizing or not? | Does AI plagirize art works | Overview | The world |
 |---|---|---|---|---|---|
 |   Faith-|Eke---|-Work--|Foreigners Job Search Challange---|Job---|-Foreigners--|
 | Dominik | Boehler | github.com/dominikb1888/GBAC | Data Quality | Wearable Data Harmonization | Cardiologists in Germany |
