@@ -14,3 +14,5 @@
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
 |Oscar |Kyamuwendo|https://23w-gbac.github.io/Oscarkyamuwendo/| UNCOMMON FACTS ABOUT ARTIFICIAL INTELLIGENCE | SEEKERS OF KNOWLEDGE |
+
+| udehadaeze | https://23w-gbac.github.io/udehadaeze/ | Have you ever wondered what your Body Mass Index (BMI) says about you? If yes, simply use my BMI calculator to get  information specifically tailored to you. |
