@@ -14,3 +14,5 @@
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | Not-decided | Not-decided | Not-decided-audience |
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
 |Oscar |Kyamuwendo|https://23w-gbac.github.io/Oscarkyamuwendo/| UNCOMMON FACTS ABOUT ARTIFICIAL INTELLIGENCE | SEEKERS OF KNOWLEDGE |
+|Ameena |Prity|https://github.com/23W-GBAC/prity_Blogposts/| E-Bay Price Scrapping | E-Commerce Seller |
+
