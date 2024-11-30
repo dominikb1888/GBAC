@@ -2,7 +2,7 @@
 
 
 | First Name | Last Name | Repository | Topic | First Title | Target Group |
-|---|---|---|---|---|---|
+|Ondess|Ekorong Abouem|https://github.com/Ondess1/Ondess_GBE|Health-Tech Chronicles|The Convergence of Health and Technology|General|
 |   Faith-|Eke---|-Work--|Foreigners Job Search Challange---|Job---|-Foreigners--|
 | Dominik | Boehler | github.com/dominikb1888/GBAC | Data Quality | Wearable Data Harmonization | Cardiologists in Germany |
 | Kseniia | Vinogradova | https://github.com/23W-GBAC/kseniiavi.git | Injuries | First book | Readers |
